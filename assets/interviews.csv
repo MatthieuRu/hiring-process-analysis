@@ -1,0 +1,729 @@
+JOB_POSTING_NAME,INTERVIEW_NAME,CANDIDATE_ID,INTERVIEWER_ID,SCORE,CREATEDAT_MS
+Software Engineer – Intern,Phone Screen #2,33fdaa70-a6ce-43bf-9f3b-e1cdb1fa8435,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-11-01 22:22:04.182
+Software Engineer – Intern,Phone Screen #2,33fdaa70-a6ce-43bf-9f3b-e1cdb1fa8435,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-11-01 20:07:54.658
+Software Engineer – Intern,Phone Screen #1,33fdaa70-a6ce-43bf-9f3b-e1cdb1fa8435,522b9494-0bc1-4f68-8123-f63a9af90a26,3 - Hire,2018-10-26 20:32:19.732
+Software Engineer – Intern,Phone Screen #1,33fdaa70-a6ce-43bf-9f3b-e1cdb1fa8435,8cb0f5a0-ab9a-4fe9-b164-202d6f3030d1,3 - Hire,2018-10-26 19:32:09.283
+Software Engineer – Intern,Recruiter Phone Screen,33fdaa70-a6ce-43bf-9f3b-e1cdb1fa8435,b647ea2e-94f8-4789-b301-f9deb7643fae,4 - Strong Hire,2018-10-19 18:00:38.284
+Software Engineer – Intern,Recruiter Phone Screen,ce2b9e03-0d10-4b62-acee-08f31622ac69,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-24 17:01:46.244
+Software Engineer – Intern,Phone Screen #2,7d618183-0b8a-4e19-8581-95c8d06e82d4,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-11-16 16:43:26.268
+Software Engineer – Intern,Phone Screen #2,7d618183-0b8a-4e19-8581-95c8d06e82d4,cd598598-e2bb-4e0e-93a3-169bae2dd824,3 - Hire,2018-11-14 21:17:59.220
+Software Engineer – Intern,Phone Screen #1,7d618183-0b8a-4e19-8581-95c8d06e82d4,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-10-29 21:12:42.566
+Software Engineer – Intern,Phone Screen #1,7d618183-0b8a-4e19-8581-95c8d06e82d4,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-10-29 21:01:54.656
+Software Engineer – Intern,Recruiter Phone Screen,72881ee1-6efb-45c5-bab0-3d507f1c2414,b647ea2e-94f8-4789-b301-f9deb7643fae,4 - Strong Hire,2018-08-15 22:58:49.747
+Software Engineer – New Grad,Recruiter Phone Screen,6e9e28ad-6a55-4908-b79f-f543307b1a84,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-16 16:52:40.284
+Software Engineer – Intern,Recruiter Phone Screen,01f3208e-bff5-4994-9968-a2e3f9730b1c,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-31 18:39:38.775
+Software Engineer – New Grad,Recruiter Phone Screen,1b2635b4-0b29-4a31-8fbf-a8a7640aaca1,b647ea2e-94f8-4789-b301-f9deb7643fae,1 - Strong No Hire,2018-08-30 21:25:46.959
+Software Engineer – New Grad,Recruiter Phone Screen,d7aae54c-f1e0-4edc-b21b-ad51f7a2dba1,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-12-04 21:34:55.557
+Software Engineer – Intern,Recruiter Phone Screen,15abd352-59ce-4d76-80d9-c8ac20ff0d74,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-02 20:02:52.253
+Software Engineer – Intern,Recruiter Phone Screen,4c7a0578-4021-4a04-a2ab-296dc0a5f70d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2019-01-11 18:31:03.352
+Software Engineer – Intern,Recruiter Phone Screen,774987d2-6974-46c4-ad39-09fdc1a26227,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-14 21:11:02.289
+Software Engineer – Intern,Recruiter Phone Screen,28c09353-9be0-4a8c-a792-0d9d3358a5e8,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-21 23:26:55.183
+Software Engineer – New Grad,Recruiter Phone Screen,5ff3d0a0-d9cb-4bd7-8fb0-27617851dd7c,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-12-20 17:53:10.186
+Software Engineer – Intern,Recruiter Phone Screen,6dbce8bd-9034-4861-97a2-0a3ebed5cd36,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-12-06 22:53:52.513
+Software Engineer – New Grad,Recruiter Phone Screen,43c1b020-0ef7-40c0-9522-cdbfeeda8ad5,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-12-04 20:54:29.067
+Software Engineer – New Grad,Recruiter Phone Screen,7c045cc6-6690-4836-90af-38ed8b4bbc7a,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-11-28 23:53:34.599
+Software Engineer – New Grad,Recruiter Phone Screen,babfb329-3ccd-4850-8f0f-93a49585aa64,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-11-19 23:51:08.299
+Software Engineer – New Grad,Recruiter Phone Screen,ada8262d-80f9-4958-89bf-b78789876fdc,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-31 23:18:34.866
+Software Engineer – New Grad,Recruiter Phone Screen,ed874caf-2001-4a94-8b84-40e91175e342,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-26 20:16:56.420
+Software Engineer – New Grad,Recruiter Phone Screen,1c643777-6101-4ff3-afbc-deedbd1482f0,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-25 17:32:46.987
+Software Engineer – New Grad,Recruiter Phone Screen,ec33b9cf-c9a3-4a2b-8139-333f87769de1,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-15 23:22:46.028
+Software Engineer – Intern,Recruiter Phone Screen,e93fe22c-73ce-4a63-aa7e-8b8f23350462,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-22 17:52:50.104
+Software Engineer – New Grad,Recruiter Phone Screen,5533e45f-3adf-4f82-8fd9-10ed903804a7,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-16 16:22:41.126
+Software Engineer – New Grad,Recruiter Phone Screen,ffc49334-35a7-41ca-9403-ab20ee29906e,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-12 21:13:17.730
+Software Engineer – New Grad,Recruiter Phone Screen,da88a724-20cb-4d0e-a280-2d0886b5bfd3,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-10 18:24:42.818
+Software Engineer – New Grad,Recruiter Phone Screen,9307a29e-826a-4760-92b6-f29a64e7d806,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-08 18:29:20.166
+Software Engineer – New Grad,Recruiter Phone Screen,5c254f1b-cef8-4671-b48b-19b7350de2e1,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-10-03 16:26:05.801
+Software Engineer – New Grad,Recruiter Phone Screen,6e60c79c-8092-46cc-8fae-dd4c69add716,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-28 17:41:39.889
+Software Engineer – New Grad,Recruiter Phone Screen,582989f0-e87f-4882-bf1d-dde5a4e6c133,58bda504-9819-4d7b-85d1-1c4c71b0f699,3 - Hire,2018-09-25 23:37:41.705
+Software Engineer – New Grad,Recruiter Phone Screen,7dbe126e-359a-4cc7-8ccd-0f42fb4afbf6,58bda504-9819-4d7b-85d1-1c4c71b0f699,3 - Hire,2018-09-25 23:52:34.613
+Software Engineer – New Grad,Recruiter Phone Screen,11c2aab4-c4c6-4b31-9204-b7731835b32b,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-26 22:18:27.023
+Software Engineer – New Grad,Recruiter Phone Screen,40026e96-20e6-480c-947c-74abdc1fa9a4,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-18 16:23:53.269
+Software Engineer – New Grad,Recruiter Phone Screen,433f3c15-0153-4078-b47f-b977773f3dbb,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-14 19:51:13.672
+Software Engineer – New Grad,Recruiter Phone Screen,337765a6-5c2f-4b8e-a37d-2a9573a17ae2,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-13 16:47:20.490
+Software Engineer – New Grad,Recruiter Phone Screen,ac7cbdbf-936e-4e7f-a326-dab79fad1901,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-12 20:55:18.967
+Software Engineer – Intern,Recruiter Phone Screen,ce7a8098-e7e0-4848-b187-d628443289d0,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-12 21:51:01.124
+Software Engineer – New Grad,Recruiter Phone Screen,b5efd6e4-db38-41b1-89e1-965c63f0713d,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-09-12 16:24:32.761
+Software Engineer – New Grad,Recruiter Phone Screen,a04626b7-d189-41a1-bb65-974a49b8c417,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-01 22:40:31.327
+Software Engineer – Intern,Recruiter Phone Screen,bc69f0a0-f3ed-4548-b922-4e7e98f4787d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-29 00:05:55.514
+Software Engineer – New Grad,Recruiter Phone Screen,057259e0-85ab-4197-b330-dc4ff95c888b,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-20 17:19:19.305
+Software Engineer – Intern,Recruiter Phone Screen,85b63230-ccde-4f44-b066-c34f1de8b906,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-31 17:03:26.324
+Software Engineer – New Grad,Recruiter Phone Screen,dc407b38-aff8-464f-826b-e91ed570f230,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-28 20:52:11.767
+Software Engineer – Intern,Recruiter Phone Screen,334ec12f-e028-49ba-954c-4a0f86711a19,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-27 22:04:21.570
+Software Engineer – New Grad,Recruiter Phone Screen,6e3d50b7-414b-40c7-ab4c-99e68f050851,b647ea2e-94f8-4789-b301-f9deb7643fae,1 - Strong No Hire,2018-08-22 17:14:26.583
+Software Engineer – New Grad,Recruiter Phone Screen,03fce550-611b-4e23-aca3-b16805a2c458,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-17 21:45:53.935
+Software Engineer – Intern,Recruiter Phone Screen,1f8c4553-1df8-4057-98b9-9682c07643e8,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-06 23:09:05.061
+Software Engineer – New Grad,Recruiter Phone Screen,ae930627-08db-4129-98b5-ccb26629fe50,b647ea2e-94f8-4789-b301-f9deb7643fae,2 - No Hire,2018-08-09 02:30:25.073
+Software Engineer – Intern,Phone Screen #1,2fc0e1e7-1d20-4aa3-8194-9eefa21c8119,bb231d23-2581-4f82-8508-773cbb6da11b,1 - Strong No Hire,2019-03-01 01:54:22.069
+Software Engineer – Intern,Phone Screen #1,d4e2c893-a027-4fcf-bc9a-1967e38b2d0e,52209d66-bf7f-4cca-9c6b-2c633948bf35,2 - No Hire,2019-02-26 22:09:57.523
+Software Engineer – Intern,Phone Screen #1,d4e2c893-a027-4fcf-bc9a-1967e38b2d0e,214a9342-7395-455d-a4c0-66ae5741f5e9,2 - No Hire,2019-02-26 21:09:29.469
+Software Engineer – Intern,Recruiter Phone Screen,d4e2c893-a027-4fcf-bc9a-1967e38b2d0e,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-24 21:39:40.229
+Software Engineer – Intern,Phone Screen #1,4b253d58-6998-4f9b-b944-cd6546271ade,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2019-02-12 00:32:02.794
+Software Engineer – Intern,Recruiter Phone Screen,4b253d58-6998-4f9b-b944-cd6546271ade,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2019-02-06 18:57:51.200
+Software Engineer – New Grad,Phone Screen #1,0634695e-7899-48c3-b4a6-63c75864e29b,fea3236e-92eb-4bb9-87a5-81af670fd86a,2 - No Hire,2019-02-07 22:18:33.538
+Software Engineer – New Grad,Phone Screen #1,0634695e-7899-48c3-b4a6-63c75864e29b,f54ba51c-6c6d-4224-b75b-673525de74c8,2 - No Hire,2019-02-07 21:08:52.203
+Software Engineer – New Grad,Recruiter Phone Screen,0634695e-7899-48c3-b4a6-63c75864e29b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2019-01-24 19:18:04.630
+Software Engineer – New Grad,Recruiter Phone Screen,3b95ca50-db10-4d41-b0d6-86dc309cfdd2,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2019-01-25 19:03:02.604
+Software Engineer – Intern,Phone Screen #1,79869961-df0f-4b00-8322-757bd9b0baca,bb231d23-2581-4f82-8508-773cbb6da11b,1 - Strong No Hire,2019-01-09 23:09:36.560
+Software Engineer – Intern,Phone Screen #1,79869961-df0f-4b00-8322-757bd9b0baca,ff633951-6cee-4923-8ba0-87431471b328,1 - Strong No Hire,2019-01-09 22:32:46.731
+Software Engineer – Intern,Phone Screen #1,a6e5a175-7169-4a69-966e-cdbc0e38dff6,54449cec-90c9-4ca8-ab07-658ad17f53b9,1 - Strong No Hire,2018-12-07 01:06:41.830
+Software Engineer – Intern,Recruiter Phone Screen,a6e5a175-7169-4a69-966e-cdbc0e38dff6,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-11-20 18:39:27.073
+Software Engineer – Intern,Phone Screen #1,226d531e-0eaf-4c82-a3c2-684278edcb61,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2018-12-14 08:15:46.684
+Software Engineer – Intern,Phone Screen #1,226d531e-0eaf-4c82-a3c2-684278edcb61,baa19db3-93f2-4615-a199-5365079a1292,4 - Strong Hire,2018-12-12 00:03:37.687
+Software Engineer – New Grad,Phone Screen #1,c245defb-a855-478e-9d9e-d26e4b7e7a5b,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-12-05 00:06:04.167
+Software Engineer – Intern,Phone Screen #1,68afba99-fa74-4e2d-93b9-1ab934ac8c43,fff01408-4976-447f-aeea-c3f9a8b6081c,2 - No Hire,2018-11-09 22:15:14.532
+Software Engineer – Intern,Phone Screen #1,68afba99-fa74-4e2d-93b9-1ab934ac8c43,13a65a65-a780-46c8-a9f3-b8b064bb6132,2 - No Hire,2018-11-09 21:05:28.873
+Software Engineer – Intern,Phone Screen #1,1a5dfc13-f379-4c6d-9ceb-5390fcc1c195,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,2 - No Hire,2018-11-07 23:35:41.213
+Software Engineer – Intern,Phone Screen #1,22f46a19-8c39-4d79-a4eb-a4224a81c79c,7395d84f-07dd-4862-8b74-887a2a66a1d0,2 - No Hire,2018-11-02 16:11:28.862
+Software Engineer – Intern,Phone Screen #1,22f46a19-8c39-4d79-a4eb-a4224a81c79c,cfa46f0f-55fb-4ef0-846b-4be64b68e594,2 - No Hire,2018-11-02 01:36:26.482
+Software Engineer – Intern,Recruiter Phone Screen,22f46a19-8c39-4d79-a4eb-a4224a81c79c,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-18 19:09:19.222
+Software Engineer – Intern,Phone Screen #1,2fac19e0-a4d7-43c8-8900-22dcd7c3adc2,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2018-10-31 16:36:45.744
+Software Engineer – Intern,Phone Screen #1,2fac19e0-a4d7-43c8-8900-22dcd7c3adc2,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,2 - No Hire,2018-10-30 18:08:40.153
+Software Engineer – Intern,Phone Screen #1,0e39c726-93a4-4d51-96c5-b763576b7052,df5de17b-fd9f-45ac-8db2-7bd61d06feec,1 - Strong No Hire,2018-10-30 20:58:25.774
+Software Engineer – Intern,Phone Screen #1,0e39c726-93a4-4d51-96c5-b763576b7052,214a9342-7395-455d-a4c0-66ae5741f5e9,1 - Strong No Hire,2018-10-30 20:20:25.675
+Software Engineer – Intern,Recruiter Phone Screen,148b0ee1-47cc-48a7-99f4-d193bba8f111,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-19 22:33:54.502
+Software Engineer – Intern,Phone Screen #1,21505010-f95a-4a9d-87bb-fcefd46cd1ce,5983bf10-f2c8-4aad-b615-6c4c30201072,4 - Strong Hire,2018-09-22 15:24:13.680
+Software Engineer – New Grad,Phone Screen #1,391363ad-ae67-4423-a8a1-bba915a4dfd1,cfa46f0f-55fb-4ef0-846b-4be64b68e594,2 - No Hire,2018-10-29 21:27:54.538
+Software Engineer – New Grad,Phone Screen #1,391363ad-ae67-4423-a8a1-bba915a4dfd1,5a616cfd-b027-4313-972d-ac514544e7b7,2 - No Hire,2018-10-23 00:48:03.017
+Software Engineer – New Grad,Recruiter Phone Screen,391363ad-ae67-4423-a8a1-bba915a4dfd1,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-16 23:33:28.441
+Software Engineer – New Grad,Phone Screen #1,0008a7d3-59a2-454e-becf-05d4e1a66d8f,fff01408-4976-447f-aeea-c3f9a8b6081c,2 - No Hire,2018-10-26 22:23:03.347
+Software Engineer – New Grad,Phone Screen #1,0008a7d3-59a2-454e-becf-05d4e1a66d8f,13a65a65-a780-46c8-a9f3-b8b064bb6132,2 - No Hire,2018-10-26 21:04:41.035
+Software Engineer – New Grad,Phone Screen #1,cfab5275-e6d0-4211-b8a0-a2f008654be5,e0f3e92c-39e2-4839-af33-b37cd10a84bc,2 - No Hire,2018-10-19 21:39:31.172
+Software Engineer – New Grad,Phone Screen #1,cfab5275-e6d0-4211-b8a0-a2f008654be5,214a9342-7395-455d-a4c0-66ae5741f5e9,2 - No Hire,2018-10-19 20:10:05.360
+Software Engineer – New Grad,Phone Screen #1,87d204fe-214e-44a4-bda3-9e2cd1e69cd2,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2018-10-19 23:55:05.103
+Software Engineer – New Grad,Phone Screen #1,a36bf45b-4a6b-41bd-bc83-ff1fe7b1b4e8,baa19db3-93f2-4615-a199-5365079a1292,1 - Strong No Hire,2018-10-16 16:12:44.542
+Software Engineer – New Grad,Recruiter Phone Screen,a36bf45b-4a6b-41bd-bc83-ff1fe7b1b4e8,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-03 16:50:02.076
+Software Engineer – Intern,Phone Screen #1,0a7291a5-e3ee-4ff7-8034-b136a91f74fc,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-08 21:53:02.576
+Software Engineer – Intern,Phone Screen #1,0a7291a5-e3ee-4ff7-8034-b136a91f74fc,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-10-08 21:15:28.198
+Software Engineer – New Grad,Phone Screen #1,92ba1c38-5aaf-4375-a467-5900751817eb,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2018-10-04 00:12:01.786
+Software Engineer – New Grad,Phone Screen #1,92ba1c38-5aaf-4375-a467-5900751817eb,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-10-03 22:35:36.520
+Software Engineer – Intern,Phone Screen #1,c02270ef-41fd-4f26-ac0f-acb698304561,9454d685-92d1-4c1d-929f-69f2adb65796,2 - No Hire,2018-10-03 18:45:01.397
+Software Engineer – Intern,Phone Screen #1,c02270ef-41fd-4f26-ac0f-acb698304561,af2dc6f4-3ac9-45db-b6e6-eaf774240268,2 - No Hire,2018-10-03 16:59:37.466
+Software Engineer – Intern,Recruiter Phone Screen,c02270ef-41fd-4f26-ac0f-acb698304561,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-08 00:09:21.706
+Software Engineer – New Grad,Phone Screen #1,d30a2f38-8ba8-4acb-abd7-73daa0e7d7b9,522b9494-0bc1-4f68-8123-f63a9af90a26,2 - No Hire,2018-09-28 19:00:58.478
+Software Engineer – New Grad,Recruiter Phone Screen,d30a2f38-8ba8-4acb-abd7-73daa0e7d7b9,58bda504-9819-4d7b-85d1-1c4c71b0f699,3 - Hire,2018-09-24 19:52:35.535
+Software Engineer – New Grad,Phone Screen #1,9061c0b2-dfe0-49ac-bc0d-abea7516912b,5a616cfd-b027-4313-972d-ac514544e7b7,2 - No Hire,2018-09-28 18:44:15.494
+Software Engineer – New Grad,Recruiter Phone Screen,9061c0b2-dfe0-49ac-bc0d-abea7516912b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-09 16:56:29.676
+Software Engineer – New Grad,Phone Screen #1,352965c5-4eb8-4736-89ab-382bf317f4ef,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-09-22 18:03:37.795
+Software Engineer – New Grad,Phone Screen #1,b4af69f2-2b1e-4dad-aaae-6d47cb694079,cfa46f0f-55fb-4ef0-846b-4be64b68e594,2 - No Hire,2018-09-26 16:20:28.856
+Software Engineer – New Grad,Recruiter Phone Screen,b4af69f2-2b1e-4dad-aaae-6d47cb694079,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-12 17:01:20.142
+Software Engineer – Intern,Phone Screen #1,5a450113-3600-467c-9b38-4d2f7a02172f,54449cec-90c9-4ca8-ab07-658ad17f53b9,2 - No Hire,2018-09-25 22:42:52.715
+Software Engineer – Intern,Recruiter Phone Screen,5a450113-3600-467c-9b38-4d2f7a02172f,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-11 15:36:27.346
+Software Engineer – Intern,Phone Screen #1,2c3b6c12-5106-44f4-8b50-91e1d21239c8,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-09-22 17:50:58.532
+Software Engineer – New Grad,Phone Screen #1,8861d267-237c-4335-a40f-1d5c3fa55ac5,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-09-21 21:41:28.110
+Software Engineer – New Grad,Phone Screen #1,8861d267-237c-4335-a40f-1d5c3fa55ac5,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-09-20 13:35:17.167
+Software Engineer – New Grad,Phone Screen #1,16e9fe29-4b01-4820-8e67-083d616e51fa,5a616cfd-b027-4313-972d-ac514544e7b7,2 - No Hire,2018-09-11 18:49:38.228
+Software Engineer – New Grad,Phone Screen #1,16e9fe29-4b01-4820-8e67-083d616e51fa,fea3236e-92eb-4bb9-87a5-81af670fd86a,2 - No Hire,2018-09-10 21:52:45.334
+Software Engineer – New Grad,Recruiter Phone Screen,16e9fe29-4b01-4820-8e67-083d616e51fa,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-28 16:43:23.244
+Software Engineer – New Grad,Phone Screen #1,5c2d0f44-2f5a-455b-ab55-98af566d22ce,ad76ac92-cc68-40fa-8c74-509305f4a028,2 - No Hire,2018-09-07 20:23:33.629
+Software Engineer – New Grad,Recruiter Phone Screen,5c2d0f44-2f5a-455b-ab55-98af566d22ce,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-27 17:26:13.379
+Software Engineer – New Grad,Phone Screen #1,2820f9ca-748c-4674-8f4b-031e2f66f916,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2018-09-11 21:49:39.941
+Software Engineer – Intern,Phone Screen #1,898280bb-220c-46d0-9d60-8cf5b434085a,4a1937ff-da77-42a0-af48-bc20834a6288,2 - No Hire,2018-09-10 22:38:39.090
+Software Engineer – Intern,Phone Screen #1,4bf947d1-509c-4bd2-a79e-417eacdf155d,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-12-19 21:05:38.967
+Software Engineer – Intern,Recruiter Phone Screen,4bf947d1-509c-4bd2-a79e-417eacdf155d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-11-21 18:25:36.061
+Software Engineer – Intern,Phone Screen #2,a700c067-f593-4827-9722-a3e3c10d0b0d,60f1064d-ab05-476b-865f-d42e4f9c0cf0,2 - No Hire,2019-03-14 21:03:14.740
+Software Engineer – Intern,Phone Screen #2,a700c067-f593-4827-9722-a3e3c10d0b0d,54449cec-90c9-4ca8-ab07-658ad17f53b9,2 - No Hire,2019-03-14 20:54:06.660
+Software Engineer – Intern,Phone Screen #1,a700c067-f593-4827-9722-a3e3c10d0b0d,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2019-03-08 23:11:41.634
+Software Engineer – Intern,Phone Screen #1,a700c067-f593-4827-9722-a3e3c10d0b0d,cd598598-e2bb-4e0e-93a3-169bae2dd824,3 - Hire,2019-03-08 22:16:32.651
+Software Engineer – Intern,Phone Screen #2,86ccb65a-e8ec-450d-bae0-dcb0e096e5be,60f1064d-ab05-476b-865f-d42e4f9c0cf0,2 - No Hire,2019-02-23 01:21:44.754
+Software Engineer – Intern,Phone Screen #2,86ccb65a-e8ec-450d-bae0-dcb0e096e5be,214a9342-7395-455d-a4c0-66ae5741f5e9,2 - No Hire,2019-02-22 23:36:40.341
+Software Engineer – Intern,Phone Screen #1,86ccb65a-e8ec-450d-bae0-dcb0e096e5be,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2019-02-18 23:21:00.561
+Software Engineer – Intern,Phone Screen #1,86ccb65a-e8ec-450d-bae0-dcb0e096e5be,0f8f8d59-8a64-428f-b6a7-fdffe149aa32,3 - Hire,2019-02-13 23:10:47.301
+Software Engineer – Intern,Phone Screen #2,913bd447-cb87-49cf-91ba-7b025171cfaa,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2019-01-25 20:06:22.063
+Software Engineer – Intern,Phone Screen #2,913bd447-cb87-49cf-91ba-7b025171cfaa,0f8f8d59-8a64-428f-b6a7-fdffe149aa32,2 - No Hire,2019-01-25 19:06:58.351
+Software Engineer – Intern,Phone Screen #1,913bd447-cb87-49cf-91ba-7b025171cfaa,cd598598-e2bb-4e0e-93a3-169bae2dd824,4 - Strong Hire,2019-01-24 17:09:32.551
+Software Engineer – Intern,Phone Screen #1,913bd447-cb87-49cf-91ba-7b025171cfaa,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2019-01-22 18:30:05.837
+Software Engineer – New Grad,Phone Screen #2,1afa6ac9-2e9b-45d2-9a5a-8fbf821cd438,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2019-01-25 00:38:21.996
+Software Engineer – New Grad,Phone Screen #2,1afa6ac9-2e9b-45d2-9a5a-8fbf821cd438,fff01408-4976-447f-aeea-c3f9a8b6081c,3 - Hire,2019-01-24 21:04:53.056
+Software Engineer – New Grad,Phone Screen #1,1afa6ac9-2e9b-45d2-9a5a-8fbf821cd438,0493b735-a1e7-43d9-b24d-3f5782492704,3 - Hire,2019-01-17 02:12:57.630
+Software Engineer – New Grad,Phone Screen #1,1afa6ac9-2e9b-45d2-9a5a-8fbf821cd438,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2019-01-17 00:10:57.706
+Software Engineer – New Grad,Recruiter Phone Screen,1afa6ac9-2e9b-45d2-9a5a-8fbf821cd438,b647ea2e-94f8-4789-b301-f9deb7643fae,4 - Strong Hire,2019-01-07 21:04:45.892
+Software Engineer – Intern,Phone Screen #2,20b2a3b7-8b1b-45c0-a446-4021fd2f1294,f54ba51c-6c6d-4224-b75b-673525de74c8,2 - No Hire,2019-01-17 17:20:55.614
+Software Engineer – Intern,Phone Screen #2,20b2a3b7-8b1b-45c0-a446-4021fd2f1294,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2019-01-16 19:28:57.553
+Software Engineer – Intern,Phone Screen #1,20b2a3b7-8b1b-45c0-a446-4021fd2f1294,cfa46f0f-55fb-4ef0-846b-4be64b68e594,3 - Hire,2018-12-21 00:01:34.785
+Software Engineer – Intern,Phone Screen #2,c329f1dc-955c-4e24-8ddd-c1668bfd9104,ff633951-6cee-4923-8ba0-87431471b328,2 - No Hire,2018-12-20 21:47:17.026
+Software Engineer – Intern,Phone Screen #2,25a9d850-4d1a-4110-bcf3-ce005c1314d6,cfa46f0f-55fb-4ef0-846b-4be64b68e594,2 - No Hire,2018-12-13 19:02:37.702
+Software Engineer – Intern,Phone Screen #1,25a9d850-4d1a-4110-bcf3-ce005c1314d6,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-12-06 22:12:17.475
+Software Engineer – Intern,Phone Screen #1,25a9d850-4d1a-4110-bcf3-ce005c1314d6,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,2 - No Hire,2018-12-06 21:06:37.277
+Software Engineer – Intern,Recruiter Phone Screen,25a9d850-4d1a-4110-bcf3-ce005c1314d6,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-11-21 18:53:45.142
+Software Engineer – New Grad,Phone Screen #2,deb2f848-f4d3-48d5-9e65-afdcb0e7119f,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-12-11 21:05:04.326
+Software Engineer – New Grad,Phone Screen #2,deb2f848-f4d3-48d5-9e65-afdcb0e7119f,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-12-11 21:04:44.359
+Software Engineer – New Grad,Phone Screen #1,deb2f848-f4d3-48d5-9e65-afdcb0e7119f,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-12-06 00:02:58.686
+Software Engineer – New Grad,Phone Screen #2,2bd9419d-454e-4a49-abd4-da8182a06dc3,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-12-10 22:07:46.655
+Software Engineer – New Grad,Phone Screen #2,2bd9419d-454e-4a49-abd4-da8182a06dc3,2c3b16db-568d-485b-af19-869ec3864d3d,2 - No Hire,2018-12-07 19:21:27.745
+Software Engineer – New Grad,Phone Screen #1,2bd9419d-454e-4a49-abd4-da8182a06dc3,2a1eafce-83dc-42d4-b423-096120f12dfb,3 - Hire,2018-12-04 20:13:31.031
+Software Engineer – Intern,Phone Screen #2,7f5fef68-7585-4976-9062-74e3f56490b1,baa19db3-93f2-4615-a199-5365079a1292,3 - Hire,2018-12-07 00:10:31.158
+Software Engineer – Intern,Phone Screen #1,7f5fef68-7585-4976-9062-74e3f56490b1,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2018-12-01 05:21:19.255
+Software Engineer – Intern,Recruiter Phone Screen,7f5fef68-7585-4976-9062-74e3f56490b1,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-29 23:06:15.691
+Software Engineer – New Grad,Phone Screen #2,3bead8ac-31e0-426f-b422-f3c3b7594888,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2018-12-06 01:09:05.912
+Software Engineer – New Grad,Phone Screen #1,3bead8ac-31e0-426f-b422-f3c3b7594888,cfa46f0f-55fb-4ef0-846b-4be64b68e594,3 - Hire,2018-12-03 03:28:07.331
+Software Engineer – New Grad,Recruiter Phone Screen,3bead8ac-31e0-426f-b422-f3c3b7594888,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-11-16 19:53:03.913
+Software Engineer – Intern,Phone Screen #2,acb56aa9-6171-439b-a759-3ca36081ffef,9454d685-92d1-4c1d-929f-69f2adb65796,4 - Strong Hire,2018-11-28 20:07:57.667
+Software Engineer – Intern,Phone Screen #1,acb56aa9-6171-439b-a759-3ca36081ffef,cfa46f0f-55fb-4ef0-846b-4be64b68e594,3 - Hire,2018-11-16 17:05:24.295
+Software Engineer – Intern,Phone Screen #1,acb56aa9-6171-439b-a759-3ca36081ffef,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-11-15 22:56:05.196
+Software Engineer – Intern,Recruiter Phone Screen,acb56aa9-6171-439b-a759-3ca36081ffef,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-31 17:00:02.447
+Software Engineer – New Grad,Phone Screen #1,ebc8135e-39cd-4f89-bacd-15ccc40ce7d1,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-11-07 01:43:51.791
+Software Engineer – New Grad,Recruiter Phone Screen,ebc8135e-39cd-4f89-bacd-15ccc40ce7d1,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-30 20:28:18.477
+Software Engineer – New Grad,Phone Screen #1,56c64001-9465-422b-b3b4-c050fe160d00,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-11-27 18:43:20.151
+Software Engineer – New Grad,Recruiter Phone Screen,56c64001-9465-422b-b3b4-c050fe160d00,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-11-19 20:02:55.115
+Software Engineer – Intern,Phone Screen #2,d223ea7c-f21b-4cda-bd28-f8b33e18b721,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2018-11-13 19:09:13.038
+Software Engineer – Intern,Recruiter Phone Screen,d223ea7c-f21b-4cda-bd28-f8b33e18b721,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-30 17:20:55.255
+Software Engineer – Intern,Phone Screen #2,c89ccd4c-c302-48ba-9da0-7a6db6f1f3fd,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-11-26 22:36:00.714
+Software Engineer – Intern,Phone Screen #1,c89ccd4c-c302-48ba-9da0-7a6db6f1f3fd,cd598598-e2bb-4e0e-93a3-169bae2dd824,4 - Strong Hire,2018-11-07 20:43:25.832
+Software Engineer – Intern,Phone Screen #1,c89ccd4c-c302-48ba-9da0-7a6db6f1f3fd,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-11-02 20:08:20.868
+Software Engineer – Intern,Phone Screen #1,c89ccd4c-c302-48ba-9da0-7a6db6f1f3fd,fea3236e-92eb-4bb9-87a5-81af670fd86a,2 - No Hire,2018-10-29 21:02:55.337
+Software Engineer – Intern,Phone Screen #2,b7abefdc-7219-42c5-9754-9418fe76db47,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-11-14 20:15:20.909
+Software Engineer – Intern,Phone Screen #1,b7abefdc-7219-42c5-9754-9418fe76db47,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-11-07 20:28:29.072
+Software Engineer – Intern,Phone Screen #1,b7abefdc-7219-42c5-9754-9418fe76db47,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2018-11-07 19:06:29.866
+Software Engineer – Intern,Recruiter Phone Screen,b7abefdc-7219-42c5-9754-9418fe76db47,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-31 18:36:11.891
+Software Engineer – New Grad,Phone Screen #2,97bb34b5-642c-4303-bc6e-20d7ee3a0f67,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-11-20 22:26:50.427
+Software Engineer – New Grad,Phone Screen #1,97bb34b5-642c-4303-bc6e-20d7ee3a0f67,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-11-15 01:13:37.956
+Software Engineer – New Grad,Recruiter Phone Screen,97bb34b5-642c-4303-bc6e-20d7ee3a0f67,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-15 17:28:51.743
+Software Engineer – New Grad,Phone Screen #2,2f9c2f1f-f565-449c-831a-a5e0f882ca2f,9454d685-92d1-4c1d-929f-69f2adb65796,4 - Strong Hire,2018-11-02 20:59:53.804
+Software Engineer – New Grad,Phone Screen #2,2f9c2f1f-f565-449c-831a-a5e0f882ca2f,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2018-11-02 18:56:41.242
+Software Engineer – New Grad,Phone Screen #1,2f9c2f1f-f565-449c-831a-a5e0f882ca2f,ad76ac92-cc68-40fa-8c74-509305f4a028,4 - Strong Hire,2018-10-15 20:29:13.243
+Software Engineer – New Grad,Phone Screen #1,2f9c2f1f-f565-449c-831a-a5e0f882ca2f,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-10-09 17:12:18.733
+Software Engineer – New Grad,Phone Screen #2,ad2b8ae1-5915-4e57-9db6-e7368c73ab9c,fff01408-4976-447f-aeea-c3f9a8b6081c,2 - No Hire,2018-11-13 22:49:30.697
+Software Engineer – New Grad,Phone Screen #2,ad2b8ae1-5915-4e57-9db6-e7368c73ab9c,2a1eafce-83dc-42d4-b423-096120f12dfb,2 - No Hire,2018-11-13 21:42:30.465
+Software Engineer – New Grad,Phone Screen #1,ad2b8ae1-5915-4e57-9db6-e7368c73ab9c,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-11-08 21:00:56.866
+Software Engineer – New Grad,Phone Screen #1,ad2b8ae1-5915-4e57-9db6-e7368c73ab9c,9454d685-92d1-4c1d-929f-69f2adb65796,4 - Strong Hire,2018-11-08 20:59:20.929
+Software Engineer – New Grad,Phone Screen #1,318223ef-82ed-4925-98f0-c9c1e95a8f11,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-11-13 20:34:47.615
+Software Engineer – New Grad,Phone Screen #2,ea5195a1-2ddc-4f90-a49c-103b6e04f864,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-11-14 20:19:30.211
+Software Engineer – New Grad,Phone Screen #2,ea5195a1-2ddc-4f90-a49c-103b6e04f864,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-11-14 19:10:53.376
+Software Engineer – New Grad,Recruiter Phone Screen,ea5195a1-2ddc-4f90-a49c-103b6e04f864,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-17 17:31:49.857
+Software Engineer – New Grad,Phone Screen #1,c5678c14-bea8-4827-b93d-6bcd8fb1d5db,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-20 20:57:29.352
+Software Engineer – New Grad,Recruiter Phone Screen,c5678c14-bea8-4827-b93d-6bcd8fb1d5db,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-10 18:04:00.227
+Software Engineer – New Grad,Phone Screen #2,366857b5-9a55-44b2-840b-1393c9e9329d,54449cec-90c9-4ca8-ab07-658ad17f53b9,2 - No Hire,2018-11-09 22:20:29.499
+Software Engineer – New Grad,Phone Screen #2,366857b5-9a55-44b2-840b-1393c9e9329d,2c3b16db-568d-485b-af19-869ec3864d3d,2 - No Hire,2018-11-09 21:15:17.601
+Software Engineer – New Grad,Phone Screen #1,366857b5-9a55-44b2-840b-1393c9e9329d,8cb0f5a0-ab9a-4fe9-b164-202d6f3030d1,3 - Hire,2018-11-01 17:43:06.308
+Software Engineer – New Grad,Phone Screen #1,366857b5-9a55-44b2-840b-1393c9e9329d,2a1eafce-83dc-42d4-b423-096120f12dfb,3 - Hire,2018-11-01 16:36:54.324
+Software Engineer – New Grad,Phone Screen #1,9f5f7184-179a-48b1-88ba-df1b3ba9590f,54449cec-90c9-4ca8-ab07-658ad17f53b9,4 - Strong Hire,2018-10-17 00:02:18.756
+Software Engineer – New Grad,Phone Screen #1,9f5f7184-179a-48b1-88ba-df1b3ba9590f,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-10-16 23:37:52.755
+Software Engineer – New Grad,Recruiter Phone Screen,9f5f7184-179a-48b1-88ba-df1b3ba9590f,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-14 18:57:23.060
+Software Engineer – New Grad,Phone Screen #2,53c1a836-f19c-415c-886b-f1749aa6f8d2,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,2 - No Hire,2018-11-13 23:10:32.781
+Software Engineer – New Grad,Phone Screen #1,53c1a836-f19c-415c-886b-f1749aa6f8d2,af2dc6f4-3ac9-45db-b6e6-eaf774240268,3 - Hire,2018-10-30 22:36:05.266
+Software Engineer – New Grad,Recruiter Phone Screen,53c1a836-f19c-415c-886b-f1749aa6f8d2,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-19 22:58:20.630
+Software Engineer – Intern,Phone Screen #2,ae0d2243-1f3b-46b3-8da5-77fc547720ff,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-11-02 22:17:40.675
+Software Engineer – Intern,Phone Screen #1,ae0d2243-1f3b-46b3-8da5-77fc547720ff,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-10-26 22:12:02.415
+Software Engineer – Intern,Phone Screen #1,ae0d2243-1f3b-46b3-8da5-77fc547720ff,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-26 21:10:58.376
+Software Engineer – Intern,Phone Screen #2,b05d30de-a248-45c6-9bb1-b93bd6afb421,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-10-31 19:33:28.880
+Software Engineer – Intern,Phone Screen #1,b05d30de-a248-45c6-9bb1-b93bd6afb421,5a616cfd-b027-4313-972d-ac514544e7b7,4 - Strong Hire,2018-10-19 17:14:43.158
+Software Engineer – Intern,Phone Screen #2,d3ab319f-bac4-4940-895a-bdb4a45dfd86,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-10-31 23:21:25.788
+Software Engineer – Intern,Phone Screen #1,d3ab319f-bac4-4940-895a-bdb4a45dfd86,fff01408-4976-447f-aeea-c3f9a8b6081c,3 - Hire,2018-10-22 21:33:38.520
+Software Engineer – Intern,Phone Screen #1,d3ab319f-bac4-4940-895a-bdb4a45dfd86,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-10-22 20:10:02.456
+Software Engineer – New Grad,Phone Screen #2,3a857e6f-2af7-4763-b471-efca41f1bae6,fea3236e-92eb-4bb9-87a5-81af670fd86a,1 - Strong No Hire,2018-11-10 07:19:02.124
+Software Engineer – New Grad,Phone Screen #1,3a857e6f-2af7-4763-b471-efca41f1bae6,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-10-31 00:00:26.251
+Software Engineer – New Grad,Phone Screen #1,3a857e6f-2af7-4763-b471-efca41f1bae6,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-10-30 22:38:28.982
+Software Engineer – Intern,Phone Screen #2,714561d5-5433-4501-bc15-2a00ac702262,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-11-06 17:47:30.209
+Software Engineer – Intern,Phone Screen #2,714561d5-5433-4501-bc15-2a00ac702262,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-11-01 22:13:16.295
+Software Engineer – Intern,Phone Screen #1,714561d5-5433-4501-bc15-2a00ac702262,7395d84f-07dd-4862-8b74-887a2a66a1d0,3 - Hire,2018-10-30 14:01:03.891
+Software Engineer – Intern,Phone Screen #1,714561d5-5433-4501-bc15-2a00ac702262,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-10-29 23:23:59.354
+Software Engineer – Intern,Recruiter Phone Screen,714561d5-5433-4501-bc15-2a00ac702262,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-22 20:31:25.964
+Software Engineer – New Grad,Phone Screen #2,81ca398f-6d0d-4c97-a649-9bda5cda583c,cfa46f0f-55fb-4ef0-846b-4be64b68e594,3 - Hire,2018-11-07 18:12:13.012
+Software Engineer – New Grad,Phone Screen #2,81ca398f-6d0d-4c97-a649-9bda5cda583c,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-11-06 00:25:39.500
+Software Engineer – New Grad,Phone Screen #1,81ca398f-6d0d-4c97-a649-9bda5cda583c,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-10-25 17:08:51.726
+Software Engineer – New Grad,Recruiter Phone Screen,81ca398f-6d0d-4c97-a649-9bda5cda583c,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-10 19:00:05.982
+Software Engineer – Intern,Phone Screen #2,849899bf-4fd2-42f1-897a-3dbc99007a9e,fff01408-4976-447f-aeea-c3f9a8b6081c,2 - No Hire,2018-11-06 21:59:44.486
+Software Engineer – Intern,Phone Screen #1,849899bf-4fd2-42f1-897a-3dbc99007a9e,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-10-25 22:55:42.071
+Software Engineer – Intern,Phone Screen #1,849899bf-4fd2-42f1-897a-3dbc99007a9e,cfa46f0f-55fb-4ef0-846b-4be64b68e594,3 - Hire,2018-10-25 22:46:09.496
+Software Engineer – New Grad,Phone Screen #2,be12d750-ad12-40ba-8d5e-38fcdda84658,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-25 17:15:30.217
+Software Engineer – New Grad,Phone Screen #1,be12d750-ad12-40ba-8d5e-38fcdda84658,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-10-16 20:10:07.436
+Software Engineer – New Grad,Phone Screen #2,1872a0de-7e15-4a34-b28b-c40ec411aa7b,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-10-19 21:02:24.941
+Software Engineer – New Grad,Phone Screen #1,1872a0de-7e15-4a34-b28b-c40ec411aa7b,ad76ac92-cc68-40fa-8c74-509305f4a028,4 - Strong Hire,2018-10-03 02:30:58.172
+Software Engineer – New Grad,Recruiter Phone Screen,1872a0de-7e15-4a34-b28b-c40ec411aa7b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-27 22:43:28.276
+Software Engineer – New Grad,Phone Screen #2,a1b54e93-0b8a-41f0-81d0-ae10c1e8e1ab,2c3b16db-568d-485b-af19-869ec3864d3d,2 - No Hire,2018-10-26 20:11:42.782
+Software Engineer – New Grad,Phone Screen #1,a1b54e93-0b8a-41f0-81d0-ae10c1e8e1ab,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-20 00:06:53.814
+Software Engineer – New Grad,Phone Screen #2,38d5abb6-931a-4440-b705-f000506e1bf6,13a65a65-a780-46c8-a9f3-b8b064bb6132,2 - No Hire,2018-10-25 20:07:38.621
+Software Engineer – New Grad,Phone Screen #1,38d5abb6-931a-4440-b705-f000506e1bf6,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-20 00:33:05.918
+Software Engineer – New Grad,Phone Screen #1,014b2e42-96c8-4be2-86cd-8c44a9327137,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-10-23 00:04:12.649
+Software Engineer – New Grad,Recruiter Phone Screen,014b2e42-96c8-4be2-86cd-8c44a9327137,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-09 23:05:39.525
+Software Engineer – Intern,Phone Screen #2,4df2a077-70b2-4f8c-ae7f-15ab2b50b4cb,baa19db3-93f2-4615-a199-5365079a1292,3 - Hire,2018-09-18 23:14:22.488
+Software Engineer – Intern,Phone Screen #2,4df2a077-70b2-4f8c-ae7f-15ab2b50b4cb,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-09-18 22:04:56.336
+Software Engineer – Intern,Phone Screen #1,4df2a077-70b2-4f8c-ae7f-15ab2b50b4cb,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-10 17:11:20.783
+Software Engineer – Intern,Phone Screen #1,44f1029c-e131-482e-9a8d-81ea2ceada7d,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-22 19:55:16.746
+Software Engineer – Intern,Phone Screen #1,aade1937-0683-4957-9a1d-fc66d8031f8d,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-10-19 22:55:08.134
+Software Engineer – New Grad,Phone Screen #2,82c21c26-a01b-48b4-83b1-66e8da44fe98,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2018-10-16 22:09:39.344
+Software Engineer – New Grad,Recruiter Phone Screen,82c21c26-a01b-48b4-83b1-66e8da44fe98,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-26 16:59:11.631
+Software Engineer – Intern,Phone Screen #2,8520088a-a5c6-4e1f-9867-aed50abab620,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-10-23 00:16:29.336
+Software Engineer – Intern,Phone Screen #1,8520088a-a5c6-4e1f-9867-aed50abab620,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-10-17 17:07:04.579
+Software Engineer – Intern,Recruiter Phone Screen,8520088a-a5c6-4e1f-9867-aed50abab620,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-04 21:27:21.423
+Software Engineer – New Grad,Phone Screen #1,5e742559-8a08-4ab9-b51a-52445f496c5a,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-10-09 23:16:39.303
+Software Engineer – New Grad,Phone Screen #1,5e742559-8a08-4ab9-b51a-52445f496c5a,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-10-09 22:07:22.036
+Software Engineer – Intern,Phone Screen #2,42ba05f5-2120-4e2f-ac6b-79f5bddd9975,7395d84f-07dd-4862-8b74-887a2a66a1d0,2 - No Hire,2018-10-22 22:16:31.213
+Software Engineer – Intern,Phone Screen #2,42ba05f5-2120-4e2f-ac6b-79f5bddd9975,bb231d23-2581-4f82-8508-773cbb6da11b,2 - No Hire,2018-10-22 22:15:10.914
+Software Engineer – Intern,Phone Screen #1,42ba05f5-2120-4e2f-ac6b-79f5bddd9975,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-10-09 17:10:06.237
+Software Engineer – New Grad,Phone Screen #2,6787bb3c-a9a4-40cb-9e33-17df76a8f58f,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-19 20:10:19.013
+Software Engineer – New Grad,Phone Screen #1,6787bb3c-a9a4-40cb-9e33-17df76a8f58f,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-10-17 22:08:29.842
+Software Engineer – New Grad,Recruiter Phone Screen,6787bb3c-a9a4-40cb-9e33-17df76a8f58f,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-05 17:05:55.956
+Software Engineer – Intern,Phone Screen #2,bb1c88d7-821e-496b-931d-ecf7c70e80da,fff01408-4976-447f-aeea-c3f9a8b6081c,3 - Hire,2018-10-18 22:42:59.248
+Software Engineer – Intern,Phone Screen #2,bb1c88d7-821e-496b-931d-ecf7c70e80da,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-10-18 21:39:38.859
+Software Engineer – Intern,Phone Screen #1,bb1c88d7-821e-496b-931d-ecf7c70e80da,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-10-04 22:05:13.815
+Software Engineer – Intern,Phone Screen #2,22d45f51-f5cc-4b03-8fb3-7652c1770ecc,e0f3e92c-39e2-4839-af33-b37cd10a84bc,2 - No Hire,2018-10-18 20:20:13.725
+Software Engineer – Intern,Phone Screen #1,22d45f51-f5cc-4b03-8fb3-7652c1770ecc,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,4 - Strong Hire,2018-10-02 19:38:19.936
+Software Engineer – Intern,Phone Screen #2,27a406e1-f7cc-4e09-b4b1-725941f80df6,ff633951-6cee-4923-8ba0-87431471b328,2 - No Hire,2018-10-17 21:16:22.101
+Software Engineer – Intern,Phone Screen #1,b58ec071-ca43-4752-beac-75be971fb697,baa19db3-93f2-4615-a199-5365079a1292,3 - Hire,2018-10-08 22:33:38.391
+Software Engineer – Intern,Phone Screen #1,b58ec071-ca43-4752-beac-75be971fb697,af2dc6f4-3ac9-45db-b6e6-eaf774240268,3 - Hire,2018-10-08 21:07:33.371
+Software Engineer – New Grad,Phone Screen #2,85f95329-62cd-4fa0-86cf-de40b1a7bf99,2c3b16db-568d-485b-af19-869ec3864d3d,2 - No Hire,2018-10-09 22:37:24.374
+Software Engineer – New Grad,Phone Screen #1,85f95329-62cd-4fa0-86cf-de40b1a7bf99,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-10-01 18:24:54.346
+Software Engineer – New Grad,Phone Screen #1,85f95329-62cd-4fa0-86cf-de40b1a7bf99,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-10-01 17:09:55.971
+Software Engineer – New Grad,Phone Screen #2,6049d907-7703-4ff2-99cc-fcc3b90c6be8,13a65a65-a780-46c8-a9f3-b8b064bb6132,2 - No Hire,2018-10-09 20:03:31.640
+Software Engineer – New Grad,Phone Screen #1,6049d907-7703-4ff2-99cc-fcc3b90c6be8,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-09-27 00:40:53.321
+Software Engineer – New Grad,Phone Screen #1,6049d907-7703-4ff2-99cc-fcc3b90c6be8,af2dc6f4-3ac9-45db-b6e6-eaf774240268,3 - Hire,2018-09-26 20:06:28.343
+Software Engineer – New Grad,Phone Screen #2,946379a7-82af-405b-b8ba-56f9513b00bc,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-04 21:13:02.887
+Software Engineer – New Grad,Phone Screen #1,946379a7-82af-405b-b8ba-56f9513b00bc,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-25 16:57:37.515
+Software Engineer – New Grad,Phone Screen #1,ead32cc4-7229-4a09-8b69-1f485171b687,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-09-18 22:31:59.820
+Software Engineer – New Grad,Phone Screen #1,ead32cc4-7229-4a09-8b69-1f485171b687,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-09-17 22:31:57.564
+Software Engineer – New Grad,Recruiter Phone Screen,ead32cc4-7229-4a09-8b69-1f485171b687,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-11 20:59:17.609
+Software Engineer – New Grad,Phone Screen #2,7817105e-4f98-4a64-8056-039ffcbbb24c,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2018-10-04 17:07:57.756
+Software Engineer – New Grad,Phone Screen #1,7817105e-4f98-4a64-8056-039ffcbbb24c,baa19db3-93f2-4615-a199-5365079a1292,3 - Hire,2018-09-26 19:49:55.115
+Software Engineer – New Grad,Phone Screen #1,7817105e-4f98-4a64-8056-039ffcbbb24c,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-09-26 18:31:31.656
+Software Engineer – New Grad,Recruiter Phone Screen,7817105e-4f98-4a64-8056-039ffcbbb24c,58bda504-9819-4d7b-85d1-1c4c71b0f699,3 - Hire,2018-09-22 00:38:31.962
+Software Engineer – New Grad,Phone Screen #2,7b57ef8d-9560-467a-896b-73041a083110,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-10-02 20:40:02.526
+Software Engineer – New Grad,Phone Screen #2,7b57ef8d-9560-467a-896b-73041a083110,13a65a65-a780-46c8-a9f3-b8b064bb6132,4 - Strong Hire,2018-10-02 20:36:44.012
+Software Engineer – New Grad,Phone Screen #1,7b57ef8d-9560-467a-896b-73041a083110,5983bf10-f2c8-4aad-b615-6c4c30201072,4 - Strong Hire,2018-09-22 18:29:32.430
+Software Engineer – New Grad,Phone Screen #2,4b7beb26-5e3a-4a01-af56-5e5102cf9ec1,214a9342-7395-455d-a4c0-66ae5741f5e9,2 - No Hire,2018-10-04 22:09:02.303
+Software Engineer – New Grad,Phone Screen #2,4b7beb26-5e3a-4a01-af56-5e5102cf9ec1,13a65a65-a780-46c8-a9f3-b8b064bb6132,2 - No Hire,2018-10-04 22:06:18.776
+Software Engineer – New Grad,Phone Screen #1,4b7beb26-5e3a-4a01-af56-5e5102cf9ec1,522b9494-0bc1-4f68-8123-f63a9af90a26,4 - Strong Hire,2018-09-28 18:53:15.193
+Software Engineer – New Grad,Phone Screen #1,4b7beb26-5e3a-4a01-af56-5e5102cf9ec1,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-09-26 16:04:38.762
+Software Engineer – New Grad,Recruiter Phone Screen,4b7beb26-5e3a-4a01-af56-5e5102cf9ec1,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-12 00:02:41.591
+Software Engineer – Intern,Phone Screen #2,09547bba-0641-4848-933e-ca411a227058,fff01408-4976-447f-aeea-c3f9a8b6081c,3 - Hire,2018-10-03 21:06:33.005
+Software Engineer – Intern,Phone Screen #1,09547bba-0641-4848-933e-ca411a227058,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-09-26 16:31:28.212
+Software Engineer – Intern,Phone Screen #1,09547bba-0641-4848-933e-ca411a227058,2a1eafce-83dc-42d4-b423-096120f12dfb,3 - Hire,2018-09-25 22:04:58.623
+Software Engineer – New Grad,Phone Screen #1,3d87ee0e-21a4-49b1-98d6-6a642fecfa68,baa19db3-93f2-4615-a199-5365079a1292,4 - Strong Hire,2018-09-25 19:59:39.478
+Software Engineer – New Grad,Phone Screen #2,a78401ec-7ef6-42b3-a2fa-07abf9f30d82,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2018-09-26 03:58:51.088
+Software Engineer – New Grad,Phone Screen #2,a78401ec-7ef6-42b3-a2fa-07abf9f30d82,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-09-25 23:35:54.406
+Software Engineer – New Grad,Phone Screen #1,a78401ec-7ef6-42b3-a2fa-07abf9f30d82,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-09-14 17:19:06.687
+Software Engineer – New Grad,Phone Screen #1,a78401ec-7ef6-42b3-a2fa-07abf9f30d82,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-09-14 17:14:04.075
+Software Engineer – New Grad,Recruiter Phone Screen,a78401ec-7ef6-42b3-a2fa-07abf9f30d82,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-16 18:00:17.424
+Software Engineer – Intern,Phone Screen #1,66661fbb-74ec-4298-b14e-654a655e5a07,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-22 15:01:58.904
+Software Engineer – New Grad,Phone Screen #1,e66cc88e-6101-4cc6-a6ae-14189cc0aeb2,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-20 14:54:57.092
+Software Engineer – New Grad,Phone Screen #1,e66cc88e-6101-4cc6-a6ae-14189cc0aeb2,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-09-20 14:02:17.049
+Software Engineer – Intern,Phone Screen #2,e93e33b2-720e-4cf1-900d-aa21f02da95e,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-09-18 23:37:30.675
+Software Engineer – Intern,Phone Screen #1,e93e33b2-720e-4cf1-900d-aa21f02da95e,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-10 23:57:09.960
+Software Engineer – Intern,Recruiter Phone Screen,e93e33b2-720e-4cf1-900d-aa21f02da95e,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-13 21:02:53.112
+Software Engineer – New Grad,Phone Screen #2,29e2dcb8-8493-4287-994f-fb42a71b4365,214a9342-7395-455d-a4c0-66ae5741f5e9,1 - Strong No Hire,2018-09-27 21:10:54.566
+Software Engineer – New Grad,Phone Screen #1,29e2dcb8-8493-4287-994f-fb42a71b4365,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-20 20:04:10.283
+Software Engineer – New Grad,Phone Screen #2,5fd77e00-a3eb-403a-b654-31e961e8bd26,214a9342-7395-455d-a4c0-66ae5741f5e9,2 - No Hire,2018-09-27 01:59:20.139
+Software Engineer – New Grad,Phone Screen #2,5fd77e00-a3eb-403a-b654-31e961e8bd26,4a1937ff-da77-42a0-af48-bc20834a6288,2 - No Hire,2018-09-26 21:04:46.305
+Software Engineer – New Grad,Recruiter Phone Screen,5fd77e00-a3eb-403a-b654-31e961e8bd26,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-10 16:36:52.540
+Software Engineer – New Grad,Phone Screen #2,3eff82ba-d8c0-481e-bb98-151963f028fd,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-09-18 21:39:03.666
+Software Engineer – New Grad,Phone Screen #1,3eff82ba-d8c0-481e-bb98-151963f028fd,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-10 19:29:43.618
+Software Engineer – New Grad,Phone Screen #2,5380f805-190f-444b-b738-117917c1159b,52209d66-bf7f-4cca-9c6b-2c633948bf35,1 - Strong No Hire,2018-09-19 23:10:59.187
+Software Engineer – New Grad,Phone Screen #2,5380f805-190f-444b-b738-117917c1159b,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,1 - Strong No Hire,2018-09-19 22:05:43.455
+Software Engineer – New Grad,Phone Screen #1,5380f805-190f-444b-b738-117917c1159b,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-11 18:35:41.029
+Software Engineer – New Grad,Phone Screen #1,5380f805-190f-444b-b738-117917c1159b,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-11 17:58:26.014
+Software Engineer – New Grad,Phone Screen #2,7df3c300-093f-453d-9f15-0cdaeeb3411c,4a1937ff-da77-42a0-af48-bc20834a6288,1 - Strong No Hire,2018-09-17 23:39:24.160
+Software Engineer – New Grad,Phone Screen #2,7df3c300-093f-453d-9f15-0cdaeeb3411c,214a9342-7395-455d-a4c0-66ae5741f5e9,1 - Strong No Hire,2018-09-17 22:40:52.830
+Software Engineer – New Grad,Phone Screen #1,7df3c300-093f-453d-9f15-0cdaeeb3411c,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-11 18:45:24.600
+Software Engineer – New Grad,Phone Screen #2,e4eb5530-e208-4e91-a9cc-59433bd52afe,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-09-14 23:59:58.636
+Software Engineer – New Grad,Phone Screen #2,e4eb5530-e208-4e91-a9cc-59433bd52afe,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2018-09-14 21:08:13.044
+Software Engineer – New Grad,Phone Screen #1,e4eb5530-e208-4e91-a9cc-59433bd52afe,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-10 19:27:19.821
+Software Engineer – New Grad,Phone Screen #2,8961b0ac-b2b4-44e2-9621-de0b7cdbefe9,52209d66-bf7f-4cca-9c6b-2c633948bf35,2 - No Hire,2018-09-10 23:59:01.158
+Software Engineer – New Grad,Phone Screen #1,8961b0ac-b2b4-44e2-9621-de0b7cdbefe9,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-04 18:08:17.598
+Software Engineer – New Grad,Phone Screen #2,e47b4580-2057-42d1-8118-2e93f804522a,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2018-09-13 00:39:51.769
+Software Engineer – New Grad,Phone Screen #2,e47b4580-2057-42d1-8118-2e93f804522a,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-08-28 00:46:14.595
+Software Engineer – Intern,Phone Screen #2,e1baf24a-d643-46a0-aef3-b28f55a6baa4,baa19db3-93f2-4615-a199-5365079a1292,2 - No Hire,2018-09-06 03:39:44.510
+Software Engineer – Intern,Phone Screen #2,e1baf24a-d643-46a0-aef3-b28f55a6baa4,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-09-05 21:15:04.535
+Software Engineer – Intern,Phone Screen #1,e1baf24a-d643-46a0-aef3-b28f55a6baa4,2a1eafce-83dc-42d4-b423-096120f12dfb,3 - Hire,2018-08-27 19:48:22.697
+Software Engineer – Intern,Phone Screen #1,e1baf24a-d643-46a0-aef3-b28f55a6baa4,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-08-27 18:31:00.435
+Software Engineer – Intern,Recruiter Phone Screen,23848b5f-00d2-45bb-84a6-49b0f588d43d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-12-11 18:07:24.457
+Software Engineer – New Grad,Recruiter Phone Screen,f5d89c1b-6917-4b71-a104-0f698e8ce5e6,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-02 16:51:48.782
+Software Engineer – New Grad,Recruiter Phone Screen,9beb1d43-328c-43f8-b53c-b745eb3c59bc,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-12 21:30:49.536
+Software Engineer – New Grad,Recruiter Phone Screen,ee9d02b7-8a23-4568-ab94-d1e447378382,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-30 18:31:19.086
+Software Engineer – New Grad,Recruiter Phone Screen,db220d8a-8316-4da9-a6cd-e24e2376a21b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-16 17:48:37.625
+Software Engineer – New Grad,Recruiter Phone Screen,88580edb-d33d-4555-8b16-d6c0d8e66098,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-28 20:33:05.774
+Software Engineer – New Grad,Recruiter Phone Screen,ef2ee100-9d96-402a-b965-f6c0d8d284b2,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-15 17:04:26.541
+Software Engineer – Intern,Recruiter Phone Screen,d3b584e8-aee6-4aef-b45e-151464a4b008,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-19 17:07:21.985
+Software Engineer – Intern,Recruiter Phone Screen,f76c2369-5806-4d56-8366-5e655e1ebb7e,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-08 23:05:07.927
+Software Engineer – Intern,Recruiter Phone Screen,cba1b6cb-2e1b-4ebf-930b-f694d662185a,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-30 21:03:15.398
+Software Engineer – Intern,Recruiter Phone Screen,88b1a1d2-2ff3-43d6-a3c1-dd00878e949e,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-15 19:55:49.591
+Software Engineer – Intern,Recruiter Phone Screen,39a98361-044e-4195-98da-ba881956e7fa,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-17 17:56:28.897
+Software Engineer – Intern,Recruiter Phone Screen,2b750d90-9474-454c-9571-de5aa92a8599,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-29 00:33:10.120
+Software Engineer – New Grad,Recruiter Phone Screen,aecce8ca-a85f-4f88-8dad-eb9d5947c511,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-31 21:30:44.626
+Software Engineer – Intern,Recruiter Phone Screen,0adf5341-4b68-4981-a072-34dc3ac81960,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-19 16:29:28.182
+Software Engineer – New Grad,Recruiter Phone Screen,182be8c7-bbde-4f3a-9c25-d51f60e13831,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-18 00:32:09.875
+Software Engineer – New Grad,Recruiter Phone Screen,76849cfa-508e-4c7e-9baa-c2a1e4b52920,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-09 20:34:17.412
+Software Engineer – New Grad,Recruiter Phone Screen,cb12abfa-6164-4616-9522-55ee7d218292,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-03 18:06:38.978
+Software Engineer – Intern,Recruiter Phone Screen,934fc9d8-5cd6-4b66-a09e-41504f2f106d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-12 16:26:48.381
+Software Engineer – New Grad,Recruiter Phone Screen,668f8963-a229-42d9-a156-321cb3e33809,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-26 22:38:02.577
+Software Engineer – New Grad,Recruiter Phone Screen,498479ed-a15d-4533-870f-372380bda9ea,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-03 18:29:21.942
+Software Engineer – New Grad,Recruiter Phone Screen,b11c3df0-401c-44e9-a0f2-d50c8203b02e,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-18 17:53:02.366
+Software Engineer – New Grad,Recruiter Phone Screen,12c246c1-1a02-480f-9243-d7b66c4be249,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-11 15:31:55.870
+Software Engineer – Intern,Recruiter Phone Screen,b4305483-1047-4167-b0bb-53affb874ac8,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-29 23:59:02.785
+Software Engineer – New Grad,Recruiter Phone Screen,fa8fc98d-70ee-410f-bc58-76d83db360dc,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-17 21:32:57.588
+Software Engineer – Intern,Recruiter Phone Screen,a3dd9482-0c40-44d0-bf0a-b9384268dbd5,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-04 23:39:16.660
+Software Engineer – New Grad,Recruiter Phone Screen,8d506c4a-c9eb-4fc0-ab3d-c7bbce8cf159,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-11 16:54:44.782
+Software Engineer – New Grad,Recruiter Phone Screen,cd378fe7-a8c9-4f35-9224-dcfd0b990503,b647ea2e-94f8-4789-b301-f9deb7643fae,4 - Strong Hire,2018-08-06 23:57:46.153
+Software Engineer – Intern,Recruiter Phone Screen,2692b3bd-8669-4982-9af7-63951dd4dfb0,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-27 20:30:52.972
+Software Engineer – Intern,Recruiter Phone Screen,78e43ee9-2685-45bf-80f9-b6f5b0f0af1b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-05 00:02:36.301
+Software Engineer – New Grad,Recruiter Phone Screen,346f356b-1285-455a-90d5-d74fed5911c3,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-28 21:36:52.597
+Software Engineer – New Grad,Recruiter Phone Screen,fafd10fd-33ac-46ad-a648-10c5a48da3a7,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-23 20:19:18.576
+Software Engineer – New Grad,Recruiter Phone Screen,f78163be-a9bc-4dc8-b532-fb0b37104301,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-07-31 20:26:47.730
+Software Engineer – New Grad,Onsite Value Fit Question - D,1be43677-8e9e-421d-91f2-946dfda525d1,1dedfff4-60c6-4262-93d2-693db5ad64dd,2 - No Hire,2019-03-22 23:16:40.866
+Software Engineer – New Grad,Onsite Coding Question #2,1be43677-8e9e-421d-91f2-946dfda525d1,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2019-03-22 20:39:55.968
+Software Engineer – New Grad,Onsite Value Fit Question - A,1be43677-8e9e-421d-91f2-946dfda525d1,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2019-03-22 20:33:15.862
+Software Engineer – New Grad,Onsite Coding Question #1,1be43677-8e9e-421d-91f2-946dfda525d1,34d348d4-d48b-4f1c-bdfa-e1a128b4461d,3 - Hire,2019-03-22 19:58:02.437
+Software Engineer – New Grad,Onsite Coding Question #1,1be43677-8e9e-421d-91f2-946dfda525d1,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2019-03-22 18:03:32.446
+Software Engineer – New Grad,Phone Screen #2,1be43677-8e9e-421d-91f2-946dfda525d1,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2019-01-10 23:13:46.891
+Software Engineer – New Grad,Recruiter Phone Screen,1be43677-8e9e-421d-91f2-946dfda525d1,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-12-10 19:59:53.002
+Software Engineer – New Grad,Onsite Coding Question #1,067e66f2-d658-4668-bbd5-384c7bc66153,cfa46f0f-55fb-4ef0-846b-4be64b68e594,1 - Strong No Hire,2019-02-14 23:32:58.367
+Software Engineer – New Grad,Onsite Value Fit Question - D,067e66f2-d658-4668-bbd5-384c7bc66153,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2019-02-14 21:45:14.954
+Software Engineer – New Grad,Onsite Coding Question #1,067e66f2-d658-4668-bbd5-384c7bc66153,34d348d4-d48b-4f1c-bdfa-e1a128b4461d,1 - Strong No Hire,2019-02-14 20:59:03.755
+Software Engineer – New Grad,Onsite Coding Question #2,067e66f2-d658-4668-bbd5-384c7bc66153,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2019-02-14 19:07:30.422
+Software Engineer – New Grad,Phone Screen #2,067e66f2-d658-4668-bbd5-384c7bc66153,f54ba51c-6c6d-4224-b75b-673525de74c8,4 - Strong Hire,2019-02-06 23:10:34.063
+Software Engineer – New Grad,Phone Screen #2,067e66f2-d658-4668-bbd5-384c7bc66153,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2019-02-05 21:07:57.732
+Software Engineer – New Grad,Phone Screen #1,067e66f2-d658-4668-bbd5-384c7bc66153,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2019-02-01 23:16:47.057
+Software Engineer – New Grad,Phone Screen #1,067e66f2-d658-4668-bbd5-384c7bc66153,cd598598-e2bb-4e0e-93a3-169bae2dd824,4 - Strong Hire,2019-01-31 18:02:50.497
+Software Engineer – New Grad,Onsite Coding Question #1,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2019-02-08 19:04:14.563
+Software Engineer – New Grad,Onsite Coding Question #1,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,0f8f8d59-8a64-428f-b6a7-fdffe149aa32,3 - Hire,2019-02-08 18:39:30.595
+Software Engineer – New Grad,Onsite Value Fit Question - D,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2019-02-08 18:36:20.448
+Software Engineer – New Grad,Onsite Coding Question #2,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2019-02-08 18:10:24.360
+Software Engineer – New Grad,Phone Screen #2,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2019-01-10 22:55:05.493
+Software Engineer – New Grad,Phone Screen #2,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,34d348d4-d48b-4f1c-bdfa-e1a128b4461d,4 - Strong Hire,2019-01-10 22:53:57.304
+Software Engineer – New Grad,Phone Screen #1,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,ff633951-6cee-4923-8ba0-87431471b328,4 - Strong Hire,2018-12-20 20:19:55.954
+Software Engineer – New Grad,Phone Screen #1,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,cd598598-e2bb-4e0e-93a3-169bae2dd824,4 - Strong Hire,2018-12-14 21:29:22.688
+Software Engineer – New Grad,Recruiter Phone Screen,0e01a4b1-ba37-4f31-a0c0-3a473fafbe1a,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-12-10 19:25:26.228
+Software Engineer – Intern,Onsite Coding Question #2,4877fe3e-358c-4f50-b0f1-92df00e434b5,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2019-02-08 23:29:53.438
+Software Engineer – Intern,Onsite Value Fit Question - A,4877fe3e-358c-4f50-b0f1-92df00e434b5,5983bf10-f2c8-4aad-b615-6c4c30201072,4 - Strong Hire,2019-02-08 22:21:37.048
+Software Engineer – Intern,Onsite Coding Question #1,4877fe3e-358c-4f50-b0f1-92df00e434b5,e0f3e92c-39e2-4839-af33-b37cd10a84bc,1 - Strong No Hire,2019-02-08 21:29:56.107
+Software Engineer – Intern,Onsite Coding Question #1,4877fe3e-358c-4f50-b0f1-92df00e434b5,34d348d4-d48b-4f1c-bdfa-e1a128b4461d,1 - Strong No Hire,2019-02-08 21:20:49.932
+Software Engineer – Intern,Onsite Value Fit Question - C,4877fe3e-358c-4f50-b0f1-92df00e434b5,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2019-02-08 20:51:05.606
+Software Engineer – Intern,Phone Screen #2,4877fe3e-358c-4f50-b0f1-92df00e434b5,54449cec-90c9-4ca8-ab07-658ad17f53b9,4 - Strong Hire,2019-01-31 21:24:57.011
+Software Engineer – Intern,Phone Screen #2,4877fe3e-358c-4f50-b0f1-92df00e434b5,60f1064d-ab05-476b-865f-d42e4f9c0cf0,4 - Strong Hire,2019-01-31 21:21:56.874
+Software Engineer – Intern,Phone Screen #1,4877fe3e-358c-4f50-b0f1-92df00e434b5,f54ba51c-6c6d-4224-b75b-673525de74c8,4 - Strong Hire,2019-01-26 21:22:13.698
+Software Engineer – Intern,Phone Screen #1,4877fe3e-358c-4f50-b0f1-92df00e434b5,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2019-01-26 01:04:59.087
+Software Engineer – Intern,Phone Screen #1,4877fe3e-358c-4f50-b0f1-92df00e434b5,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2019-01-25 23:43:03.659
+Software Engineer – Intern,Recruiter Phone Screen,4877fe3e-358c-4f50-b0f1-92df00e434b5,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2019-01-03 19:25:39.157
+Software Engineer – Intern,Onsite Value Fit Question - A,e307e489-337e-4086-9854-7d2be8d4cf50,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2019-01-18 22:30:22.644
+Software Engineer – Intern,Onsite Coding Question #2,e307e489-337e-4086-9854-7d2be8d4cf50,522b9494-0bc1-4f68-8123-f63a9af90a26,2 - No Hire,2019-01-18 21:29:06.386
+Software Engineer – Intern,Onsite Coding Question #1,e307e489-337e-4086-9854-7d2be8d4cf50,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2019-01-18 20:03:56.914
+Software Engineer – Intern,Onsite Coding Question #2,e307e489-337e-4086-9854-7d2be8d4cf50,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2019-01-18 19:49:40.183
+Software Engineer – Intern,Onsite Value Fit Question - C,e307e489-337e-4086-9854-7d2be8d4cf50,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,4 - Strong Hire,2019-01-18 19:08:02.260
+Software Engineer – Intern,Phone Screen #2,e307e489-337e-4086-9854-7d2be8d4cf50,9454d685-92d1-4c1d-929f-69f2adb65796,4 - Strong Hire,2018-12-21 00:00:20.130
+Software Engineer – Intern,Phone Screen #2,e307e489-337e-4086-9854-7d2be8d4cf50,cd598598-e2bb-4e0e-93a3-169bae2dd824,4 - Strong Hire,2018-12-20 20:37:24.641
+Software Engineer – Intern,Phone Screen #1,e307e489-337e-4086-9854-7d2be8d4cf50,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-12-06 00:13:31.135
+Software Engineer – New Grad,Onsite Value Fit Question - B,3bb57573-f30d-4861-8800-0407836b739c,1856f66f-938e-4ad2-85a9-0e60d97935e7,2 - No Hire,2019-01-16 01:07:52.925
+Software Engineer – New Grad,Onsite Coding Question #2,3bb57573-f30d-4861-8800-0407836b739c,522b9494-0bc1-4f68-8123-f63a9af90a26,3 - Hire,2019-01-16 00:38:05.673
+Software Engineer – New Grad,Onsite Value Fit Question - C,3bb57573-f30d-4861-8800-0407836b739c,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,4 - Strong Hire,2019-01-15 19:57:25.409
+Software Engineer – New Grad,Onsite Coding Question #1,3bb57573-f30d-4861-8800-0407836b739c,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2019-01-15 19:05:44.929
+Software Engineer – New Grad,Onsite Coding Question #1,3bb57573-f30d-4861-8800-0407836b739c,2c3b16db-568d-485b-af19-869ec3864d3d,4 - Strong Hire,2019-01-15 17:53:19.744
+Software Engineer – New Grad,Phone Screen #2,3bb57573-f30d-4861-8800-0407836b739c,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-12-05 00:05:13.724
+Software Engineer – New Grad,Phone Screen #2,3bb57573-f30d-4861-8800-0407836b739c,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-12-04 19:13:27.641
+Software Engineer – New Grad,Phone Screen #1,3bb57573-f30d-4861-8800-0407836b739c,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-11-28 20:36:28.675
+Software Engineer – Intern,Onsite Value Fit Question - A,26c6f5e8-3564-4f55-9e42-25ac3951e21e,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2019-01-08 20:51:25.755
+Software Engineer – Intern,Onsite Coding Question #1,26c6f5e8-3564-4f55-9e42-25ac3951e21e,e0f3e92c-39e2-4839-af33-b37cd10a84bc,2 - No Hire,2019-01-08 20:06:54.416
+Software Engineer – Intern,Onsite Value Fit Question - C,26c6f5e8-3564-4f55-9e42-25ac3951e21e,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2019-01-08 19:59:47.332
+Software Engineer – Intern,Onsite Coding Question #2,26c6f5e8-3564-4f55-9e42-25ac3951e21e,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2019-01-08 18:34:32.078
+Software Engineer – Intern,Onsite Coding Question #2,26c6f5e8-3564-4f55-9e42-25ac3951e21e,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2019-01-08 18:23:51.720
+Software Engineer – Intern,Onsite Coding Question #1,26c6f5e8-3564-4f55-9e42-25ac3951e21e,0f8f8d59-8a64-428f-b6a7-fdffe149aa32,2 - No Hire,2019-01-08 17:08:34.156
+Software Engineer – Intern,Phone Screen #2,26c6f5e8-3564-4f55-9e42-25ac3951e21e,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,4 - Strong Hire,2018-12-21 00:14:02.974
+Software Engineer – Intern,Phone Screen #1,26c6f5e8-3564-4f55-9e42-25ac3951e21e,cd598598-e2bb-4e0e-93a3-169bae2dd824,3 - Hire,2018-12-07 15:21:03.030
+Software Engineer – Intern,Phone Screen #1,26c6f5e8-3564-4f55-9e42-25ac3951e21e,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-12-04 18:06:34.235
+Software Engineer – Intern,Recruiter Phone Screen,26c6f5e8-3564-4f55-9e42-25ac3951e21e,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-11-27 19:00:53.272
+Software Engineer – Intern,Onsite Coding Question #2,89269864-184b-41a2-b05b-2ee7ec60a2df,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2018-12-19 20:50:57.691
+Software Engineer – Intern,Onsite Value Fit Question - A,89269864-184b-41a2-b05b-2ee7ec60a2df,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-12-19 19:48:38.405
+Software Engineer – Intern,Onsite Coding Question #1,89269864-184b-41a2-b05b-2ee7ec60a2df,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-12-19 17:41:06.173
+Software Engineer – Intern,Onsite Value Fit Question - D,89269864-184b-41a2-b05b-2ee7ec60a2df,1dedfff4-60c6-4262-93d2-693db5ad64dd,2 - No Hire,2018-12-19 17:36:04.688
+Software Engineer – Intern,Phone Screen #2,89269864-184b-41a2-b05b-2ee7ec60a2df,cd598598-e2bb-4e0e-93a3-169bae2dd824,4 - Strong Hire,2018-11-09 00:03:12.027
+Software Engineer – Intern,Phone Screen #2,89269864-184b-41a2-b05b-2ee7ec60a2df,ff633951-6cee-4923-8ba0-87431471b328,4 - Strong Hire,2018-11-09 00:02:46.375
+Software Engineer – Intern,Phone Screen #1,89269864-184b-41a2-b05b-2ee7ec60a2df,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2018-10-31 22:12:35.428
+Software Engineer – Intern,Phone Screen #1,89269864-184b-41a2-b05b-2ee7ec60a2df,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2018-10-30 23:31:40.779
+Software Engineer – Intern,Onsite Coding Question #1,82c843a4-de07-42c7-826c-10345ee097c8,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2018-12-04 17:51:51.947
+Software Engineer – Intern,Onsite Coding Question #2,82c843a4-de07-42c7-826c-10345ee097c8,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2018-12-04 00:28:38.348
+Software Engineer – Intern,Onsite Value Fit Question - A,82c843a4-de07-42c7-826c-10345ee097c8,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-12-03 22:05:25.758
+Software Engineer – Intern,Onsite Value Fit Question - C,82c843a4-de07-42c7-826c-10345ee097c8,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-12-03 20:34:28.518
+Software Engineer – Intern,Onsite Coding Question #1,82c843a4-de07-42c7-826c-10345ee097c8,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-12-03 18:12:30.647
+Software Engineer – Intern,Onsite Value Fit Question - A,82c843a4-de07-42c7-826c-10345ee097c8,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-11-06 21:18:42.193
+Software Engineer – Intern,Phone Screen #2,82c843a4-de07-42c7-826c-10345ee097c8,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2018-11-05 23:07:40.950
+Software Engineer – Intern,Phone Screen #1,82c843a4-de07-42c7-826c-10345ee097c8,fff01408-4976-447f-aeea-c3f9a8b6081c,4 - Strong Hire,2018-11-01 19:01:27.295
+Software Engineer – Intern,Phone Screen #1,82c843a4-de07-42c7-826c-10345ee097c8,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2018-10-31 22:06:29.986
+Software Engineer – Intern,Recruiter Phone Screen,82c843a4-de07-42c7-826c-10345ee097c8,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-24 22:58:29.505
+Software Engineer – Intern,Phone Screen #2,ff20d7a0-d40a-4585-a0e3-7bb070105f78,fff01408-4976-447f-aeea-c3f9a8b6081c,2 - No Hire,2018-12-04 20:15:43.597
+Software Engineer – Intern,Onsite Coding Question #2,ff20d7a0-d40a-4585-a0e3-7bb070105f78,522b9494-0bc1-4f68-8123-f63a9af90a26,2 - No Hire,2018-11-28 22:22:28.152
+Software Engineer – Intern,Onsite Value Fit Question - A,ff20d7a0-d40a-4585-a0e3-7bb070105f78,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-11-28 21:47:12.277
+Software Engineer – Intern,Onsite Value Fit Question - D,ff20d7a0-d40a-4585-a0e3-7bb070105f78,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-11-28 20:39:09.310
+Software Engineer – Intern,Onsite Coding Question #1,ff20d7a0-d40a-4585-a0e3-7bb070105f78,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-11-28 20:22:33.056
+Software Engineer – Intern,Onsite Coding Question #1,ff20d7a0-d40a-4585-a0e3-7bb070105f78,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-11-28 18:34:46.738
+Software Engineer – Intern,Phone Screen #2,ff20d7a0-d40a-4585-a0e3-7bb070105f78,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-11-05 22:02:51.177
+Software Engineer – Intern,Phone Screen #1,ff20d7a0-d40a-4585-a0e3-7bb070105f78,54449cec-90c9-4ca8-ab07-658ad17f53b9,4 - Strong Hire,2018-10-30 23:05:39.616
+Software Engineer – Intern,Recruiter Phone Screen,ff20d7a0-d40a-4585-a0e3-7bb070105f78,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-12 16:48:05.779
+Software Engineer – Intern,Onsite Coding Question #2,0f292226-2772-4702-bf21-73174cc9f5d5,c72f0175-3100-4410-a786-2760341aa0e5,2 - No Hire,2018-11-20 01:08:22.197
+Software Engineer – Intern,Onsite Coding Question #2,0f292226-2772-4702-bf21-73174cc9f5d5,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-11-20 00:44:22.930
+Software Engineer – Intern,Onsite Value Fit Question - B,0f292226-2772-4702-bf21-73174cc9f5d5,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-11-19 22:58:38.153
+Software Engineer – Intern,Onsite Value Fit Question - A,0f292226-2772-4702-bf21-73174cc9f5d5,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-11-19 22:48:57.432
+Software Engineer – Intern,Onsite Coding Question #1,0f292226-2772-4702-bf21-73174cc9f5d5,2c3b16db-568d-485b-af19-869ec3864d3d,2 - No Hire,2018-11-19 21:52:55.543
+Software Engineer – Intern,Onsite Coding Question #1,0f292226-2772-4702-bf21-73174cc9f5d5,214a9342-7395-455d-a4c0-66ae5741f5e9,2 - No Hire,2018-11-19 21:05:19.084
+Software Engineer – Intern,Phone Screen #2,0f292226-2772-4702-bf21-73174cc9f5d5,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-10-31 22:08:18.227
+Software Engineer – Intern,Phone Screen #1,0f292226-2772-4702-bf21-73174cc9f5d5,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-10-19 20:06:48.907
+Software Engineer – Intern,Onsite Coding Question #2,428c1c00-17be-42cb-835f-b5b7035dddf8,c72f0175-3100-4410-a786-2760341aa0e5,2 - No Hire,2018-11-19 18:03:55.876
+Software Engineer – Intern,Onsite Value Fit Question - B,428c1c00-17be-42cb-835f-b5b7035dddf8,1856f66f-938e-4ad2-85a9-0e60d97935e7,2 - No Hire,2018-11-17 18:40:25.084
+Software Engineer – Intern,Onsite Coding Question #1,428c1c00-17be-42cb-835f-b5b7035dddf8,af2dc6f4-3ac9-45db-b6e6-eaf774240268,2 - No Hire,2018-11-16 22:40:06.490
+Software Engineer – Intern,Onsite Value Fit Question - A,428c1c00-17be-42cb-835f-b5b7035dddf8,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-11-16 21:53:30.096
+Software Engineer – Intern,Onsite Coding Question #1,428c1c00-17be-42cb-835f-b5b7035dddf8,4a1937ff-da77-42a0-af48-bc20834a6288,2 - No Hire,2018-11-16 21:09:38.902
+Software Engineer – Intern,Phone Screen #2,428c1c00-17be-42cb-835f-b5b7035dddf8,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-10-26 18:43:22.609
+Software Engineer – Intern,Phone Screen #2,428c1c00-17be-42cb-835f-b5b7035dddf8,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-10-26 18:34:18.533
+Software Engineer – Intern,Phone Screen #1,428c1c00-17be-42cb-835f-b5b7035dddf8,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-10-19 18:18:37.153
+Software Engineer – New Grad,Onsite Value Fit Question - B,45c799bf-6b87-4d9e-91f0-7e076061e6ba,1856f66f-938e-4ad2-85a9-0e60d97935e7,2 - No Hire,2018-11-14 00:06:58.262
+Software Engineer – New Grad,Onsite Coding Question #2,45c799bf-6b87-4d9e-91f0-7e076061e6ba,c72f0175-3100-4410-a786-2760341aa0e5,3 - Hire,2018-11-13 21:18:06.437
+Software Engineer – New Grad,Onsite Coding Question #1,45c799bf-6b87-4d9e-91f0-7e076061e6ba,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-11-13 21:00:30.035
+Software Engineer – New Grad,Onsite Value Fit Question - C,45c799bf-6b87-4d9e-91f0-7e076061e6ba,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,4 - Strong Hire,2018-11-13 19:34:41.855
+Software Engineer – New Grad,Onsite Coding Question #2,45c799bf-6b87-4d9e-91f0-7e076061e6ba,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-11-13 19:08:41.126
+Software Engineer – New Grad,Phone Screen #2,45c799bf-6b87-4d9e-91f0-7e076061e6ba,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-01 23:36:13.514
+Software Engineer – New Grad,Phone Screen #1,45c799bf-6b87-4d9e-91f0-7e076061e6ba,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-09-24 22:39:41.176
+Software Engineer – New Grad,Phone Screen #1,45c799bf-6b87-4d9e-91f0-7e076061e6ba,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-09-24 22:11:31.829
+Software Engineer – New Grad,Recruiter Phone Screen,45c799bf-6b87-4d9e-91f0-7e076061e6ba,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-18 17:30:27.953
+Software Engineer – Intern,Onsite Coding Question #2,824d259a-bcea-4ced-9247-be94b5d69fac,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-11-06 21:39:12.622
+Software Engineer – Intern,Onsite Value Fit Question - B,824d259a-bcea-4ced-9247-be94b5d69fac,1856f66f-938e-4ad2-85a9-0e60d97935e7,1 - Strong No Hire,2018-11-05 22:28:19.174
+Software Engineer – Intern,Onsite Value Fit Question - A,824d259a-bcea-4ced-9247-be94b5d69fac,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-11-05 20:10:56.445
+Software Engineer – Intern,Onsite Coding Question #1,824d259a-bcea-4ced-9247-be94b5d69fac,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-11-05 19:47:17.003
+Software Engineer – Intern,Phone Screen #2,824d259a-bcea-4ced-9247-be94b5d69fac,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-10-01 21:21:56.675
+Software Engineer – Intern,Phone Screen #2,824d259a-bcea-4ced-9247-be94b5d69fac,fff01408-4976-447f-aeea-c3f9a8b6081c,4 - Strong Hire,2018-10-01 21:16:25.491
+Software Engineer – Intern,Phone Screen #1,824d259a-bcea-4ced-9247-be94b5d69fac,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-22 18:52:18.811
+Software Engineer – New Grad,Phone Screen #2,57b1afc5-7d5b-44db-9271-eec97dac7b49,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-10-17 00:07:40.338
+Software Engineer – New Grad,Phone Screen #1,57b1afc5-7d5b-44db-9271-eec97dac7b49,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-09-22 16:59:16.533
+Software Engineer – New Grad,Onsite Value Fit Question - B,c28edf10-acbe-4002-a87d-9bedb8f17e6d,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-11-01 23:08:02.721
+Software Engineer – New Grad,Onsite Coding Question #1,c28edf10-acbe-4002-a87d-9bedb8f17e6d,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2018-10-31 19:13:14.577
+Software Engineer – New Grad,Onsite Coding Question #1,c28edf10-acbe-4002-a87d-9bedb8f17e6d,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,4 - Strong Hire,2018-10-31 17:39:49.580
+Software Engineer – New Grad,Onsite Coding Question #2,c28edf10-acbe-4002-a87d-9bedb8f17e6d,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2018-10-31 17:24:56.408
+Software Engineer – New Grad,Onsite Value Fit Question - C,c28edf10-acbe-4002-a87d-9bedb8f17e6d,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-10-31 17:06:33.692
+Software Engineer – New Grad,Onsite Coding Question #2,c28edf10-acbe-4002-a87d-9bedb8f17e6d,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-10-31 16:10:36.263
+Software Engineer – New Grad,Phone Screen #2,c28edf10-acbe-4002-a87d-9bedb8f17e6d,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-10-03 23:31:39.993
+Software Engineer – New Grad,Phone Screen #2,c28edf10-acbe-4002-a87d-9bedb8f17e6d,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2018-10-03 21:14:43.870
+Software Engineer – New Grad,Phone Screen #1,c28edf10-acbe-4002-a87d-9bedb8f17e6d,ad76ac92-cc68-40fa-8c74-509305f4a028,4 - Strong Hire,2018-09-24 17:43:19.227
+Software Engineer – New Grad,Phone Screen #1,c28edf10-acbe-4002-a87d-9bedb8f17e6d,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-09-19 21:03:53.257
+Software Engineer – New Grad,Recruiter Phone Screen,c28edf10-acbe-4002-a87d-9bedb8f17e6d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-30 19:03:52.921
+Software Engineer – New Grad,Phone Screen #2,3c0ed188-43ee-4b69-b4b1-5ab7ed878e42,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2018-10-24 21:04:37.048
+Software Engineer – New Grad,Phone Screen #1,3c0ed188-43ee-4b69-b4b1-5ab7ed878e42,2a1eafce-83dc-42d4-b423-096120f12dfb,3 - Hire,2018-10-15 23:07:20.651
+Software Engineer – New Grad,Onsite Coding Question #1,a405a1c8-e9ef-4e14-8802-e4188868ce6b,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-10-24 20:40:58.664
+Software Engineer – New Grad,Onsite Coding Question #2,a405a1c8-e9ef-4e14-8802-e4188868ce6b,522b9494-0bc1-4f68-8123-f63a9af90a26,2 - No Hire,2018-10-24 16:01:17.670
+Software Engineer – New Grad,Onsite Value Fit Question - D,a405a1c8-e9ef-4e14-8802-e4188868ce6b,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-10-23 22:12:21.212
+Software Engineer – New Grad,Onsite Coding Question #2,a405a1c8-e9ef-4e14-8802-e4188868ce6b,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2018-10-23 20:27:25.225
+Software Engineer – New Grad,Phone Screen #2,a405a1c8-e9ef-4e14-8802-e4188868ce6b,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-09-25 22:47:50.090
+Software Engineer – New Grad,Phone Screen #2,a405a1c8-e9ef-4e14-8802-e4188868ce6b,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-25 22:43:05.546
+Software Engineer – New Grad,Phone Screen #1,a405a1c8-e9ef-4e14-8802-e4188868ce6b,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-09-18 23:43:59.992
+Software Engineer – New Grad,Recruiter Phone Screen,a405a1c8-e9ef-4e14-8802-e4188868ce6b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-14 00:37:26.078
+Software Engineer – New Grad,Phone Screen #2,a3b4e5bb-eb43-4047-9f22-d9522ae8d87d,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-09-26 21:19:10.383
+Software Engineer – New Grad,Recruiter Phone Screen,a3b4e5bb-eb43-4047-9f22-d9522ae8d87d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-12 22:51:35.454
+Software Engineer – Intern,Onsite Coding Question #2,127a2033-99c0-4be7-a107-808766d08944,522b9494-0bc1-4f68-8123-f63a9af90a26,2 - No Hire,2018-10-22 14:01:50.737
+Software Engineer – Intern,Onsite Coding Question #2,127a2033-99c0-4be7-a107-808766d08944,c72f0175-3100-4410-a786-2760341aa0e5,2 - No Hire,2018-10-19 22:58:02.333
+Software Engineer – Intern,Onsite Value Fit Question - C,127a2033-99c0-4be7-a107-808766d08944,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2018-10-19 21:50:42.076
+Software Engineer – Intern,Onsite Value Fit Question - A,127a2033-99c0-4be7-a107-808766d08944,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-10-19 19:37:50.331
+Software Engineer – Intern,Onsite Coding Question #1,127a2033-99c0-4be7-a107-808766d08944,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-10-19 18:11:23.088
+Software Engineer – Intern,Phone Screen #2,127a2033-99c0-4be7-a107-808766d08944,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-10-02 23:03:38.543
+Software Engineer – Intern,Phone Screen #2,127a2033-99c0-4be7-a107-808766d08944,9454d685-92d1-4c1d-929f-69f2adb65796,3 - Hire,2018-10-02 22:23:17.267
+Software Engineer – Intern,Phone Screen #1,127a2033-99c0-4be7-a107-808766d08944,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,4 - Strong Hire,2018-09-25 21:38:20.415
+Software Engineer – Intern,Recruiter Phone Screen,127a2033-99c0-4be7-a107-808766d08944,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-31 21:32:48.277
+Software Engineer – Intern,Onsite Value Fit Question - B,4013287b-5ed2-4faf-aa2a-b806ad0c9138,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-23 02:39:45.334
+Software Engineer – Intern,Onsite Coding Question #2,4013287b-5ed2-4faf-aa2a-b806ad0c9138,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2018-10-22 22:19:32.259
+Software Engineer – Intern,Onsite Value Fit Question - A,4013287b-5ed2-4faf-aa2a-b806ad0c9138,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-10-22 20:02:55.876
+Software Engineer – Intern,Onsite Coding Question #1,4013287b-5ed2-4faf-aa2a-b806ad0c9138,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2018-10-22 16:36:32.256
+Software Engineer – Intern,Phone Screen #2,4013287b-5ed2-4faf-aa2a-b806ad0c9138,bb231d23-2581-4f82-8508-773cbb6da11b,4 - Strong Hire,2018-10-15 21:53:48.944
+Software Engineer – Intern,Phone Screen #1,4013287b-5ed2-4faf-aa2a-b806ad0c9138,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-10-02 21:35:48.756
+Software Engineer – Intern,Phone Screen #2,19f9f00b-1cd2-4863-8ccb-838e6317d83a,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-10-03 22:05:45.649
+Software Engineer – Intern,Phone Screen #1,19f9f00b-1cd2-4863-8ccb-838e6317d83a,cfa46f0f-55fb-4ef0-846b-4be64b68e594,4 - Strong Hire,2018-09-27 23:57:05.844
+Software Engineer – Intern,Phone Screen #1,19f9f00b-1cd2-4863-8ccb-838e6317d83a,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-09-27 23:12:24.565
+Software Engineer – Intern,Recruiter Phone Screen,19f9f00b-1cd2-4863-8ccb-838e6317d83a,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-13 20:00:20.494
+Software Engineer – Intern,Phone Screen #2,77b45c5b-1698-43e1-8925-4ac2e6c81895,54449cec-90c9-4ca8-ab07-658ad17f53b9,3 - Hire,2018-10-03 22:30:32.734
+Software Engineer – Intern,Phone Screen #2,77b45c5b-1698-43e1-8925-4ac2e6c81895,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-10-03 17:25:20.671
+Software Engineer – Intern,Phone Screen #1,77b45c5b-1698-43e1-8925-4ac2e6c81895,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-21 22:26:17.971
+Software Engineer – Intern,Phone Screen #1,77b45c5b-1698-43e1-8925-4ac2e6c81895,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-20 17:47:37.111
+Software Engineer – Intern,Phone Screen #1,77b45c5b-1698-43e1-8925-4ac2e6c81895,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-20 17:39:29.033
+Software Engineer – Intern,Phone Screen #1,77b45c5b-1698-43e1-8925-4ac2e6c81895,5983bf10-f2c8-4aad-b615-6c4c30201072,4 - Strong Hire,2018-09-20 16:37:19.864
+Software Engineer – Intern,Phone Screen #2,e62118a9-69ab-4496-a50a-197df16521a5,bb231d23-2581-4f82-8508-773cbb6da11b,4 - Strong Hire,2018-10-09 18:53:16.740
+Software Engineer – Intern,Phone Screen #1,e62118a9-69ab-4496-a50a-197df16521a5,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-10-01 17:11:54.309
+Software Engineer – New Grad,Onsite Value Fit Question - D,8de5bb29-86b0-4153-ae46-0f55f070b0cd,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-10-15 20:41:33.408
+Software Engineer – New Grad,Onsite Coding Question #2,8de5bb29-86b0-4153-ae46-0f55f070b0cd,c72f0175-3100-4410-a786-2760341aa0e5,3 - Hire,2018-10-15 20:14:59.306
+Software Engineer – New Grad,Onsite Value Fit Question - B,8de5bb29-86b0-4153-ae46-0f55f070b0cd,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-15 17:43:49.305
+Software Engineer – New Grad,Phone Screen #2,8de5bb29-86b0-4153-ae46-0f55f070b0cd,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,4 - Strong Hire,2018-10-04 16:04:20.877
+Software Engineer – New Grad,Phone Screen #1,8de5bb29-86b0-4153-ae46-0f55f070b0cd,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2018-10-03 22:19:14.732
+Software Engineer – New Grad,Recruiter Phone Screen,8de5bb29-86b0-4153-ae46-0f55f070b0cd,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-02 21:36:25.799
+Software Engineer – New Grad,Onsite Coding Question #1,56932a92-e3bf-4542-8736-5b584b576b88,e0f3e92c-39e2-4839-af33-b37cd10a84bc,1 - Strong No Hire,2018-10-15 21:37:05.598
+Software Engineer – New Grad,Onsite Coding Question #2,56932a92-e3bf-4542-8736-5b584b576b88,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2018-10-15 20:47:20.569
+Software Engineer – New Grad,Onsite Coding Question #2,56932a92-e3bf-4542-8736-5b584b576b88,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-10-15 19:10:43.711
+Software Engineer – New Grad,Onsite Value Fit Question - D,56932a92-e3bf-4542-8736-5b584b576b88,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-10-15 18:08:46.936
+Software Engineer – New Grad,Onsite Value Fit Question - B,56932a92-e3bf-4542-8736-5b584b576b88,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-15 17:04:03.360
+Software Engineer – New Grad,Phone Screen #2,56932a92-e3bf-4542-8736-5b584b576b88,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-04 19:34:35.138
+Software Engineer – New Grad,Phone Screen #1,56932a92-e3bf-4542-8736-5b584b576b88,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-10-03 21:33:39.383
+Software Engineer – New Grad,Phone Screen #1,98e63bd6-8532-4f0b-9795-16d8bb5fc443,ad76ac92-cc68-40fa-8c74-509305f4a028,4 - Strong Hire,2018-09-27 16:38:16.682
+Software Engineer – Intern,Onsite Value Fit Question - A,a6ca6782-0306-42c4-b43e-8a1ffa310c51,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-10-05 20:42:30.196
+Software Engineer – Intern,Onsite Value Fit Question - B,a6ca6782-0306-42c4-b43e-8a1ffa310c51,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-05 19:07:14.897
+Software Engineer – Intern,Onsite Coding Question #1,a6ca6782-0306-42c4-b43e-8a1ffa310c51,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-05 19:04:44.001
+Software Engineer – Intern,Onsite Coding Question #2,a6ca6782-0306-42c4-b43e-8a1ffa310c51,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2018-10-05 17:53:14.928
+Software Engineer – Intern,Onsite Coding Question #2,a6ca6782-0306-42c4-b43e-8a1ffa310c51,c72f0175-3100-4410-a786-2760341aa0e5,3 - Hire,2018-10-05 17:22:28.149
+Software Engineer – Intern,Phone Screen #2,a6ca6782-0306-42c4-b43e-8a1ffa310c51,522b9494-0bc1-4f68-8123-f63a9af90a26,3 - Hire,2018-09-20 14:54:12.720
+Software Engineer – Intern,Phone Screen #2,a6ca6782-0306-42c4-b43e-8a1ffa310c51,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-09-18 18:02:44.984
+Software Engineer – Intern,Phone Screen #1,a6ca6782-0306-42c4-b43e-8a1ffa310c51,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-10 23:58:33.648
+Software Engineer – New Grad,Phone Screen #2,8e2f5607-8cb1-4754-bef1-2ac78871c56d,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-09-12 19:46:16.915
+Software Engineer – New Grad,Phone Screen #1,8e2f5607-8cb1-4754-bef1-2ac78871c56d,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-09-11 19:55:43.696
+Software Engineer – New Grad,Phone Screen #1,8e2f5607-8cb1-4754-bef1-2ac78871c56d,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-11 18:57:53.872
+Software Engineer – New Grad,Recruiter Phone Screen,8e2f5607-8cb1-4754-bef1-2ac78871c56d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-27 18:28:55.088
+Software Engineer – New Grad,Onsite Coding Question #1,577af2d8-8b57-4cdc-985d-31ff2341cb3f,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-11-28 21:45:50.263
+Software Engineer – New Grad,Onsite Value Fit Question - B,577af2d8-8b57-4cdc-985d-31ff2341cb3f,1856f66f-938e-4ad2-85a9-0e60d97935e7,2 - No Hire,2018-11-28 00:58:35.924
+Software Engineer – New Grad,Onsite Coding Question #2,577af2d8-8b57-4cdc-985d-31ff2341cb3f,c72f0175-3100-4410-a786-2760341aa0e5,3 - Hire,2018-11-28 00:10:21.718
+Software Engineer – New Grad,Onsite Coding Question #1,577af2d8-8b57-4cdc-985d-31ff2341cb3f,2c3b16db-568d-485b-af19-869ec3864d3d,4 - Strong Hire,2018-11-27 21:25:53.469
+Software Engineer – New Grad,Onsite Value Fit Question - C,577af2d8-8b57-4cdc-985d-31ff2341cb3f,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-11-27 19:36:39.205
+Software Engineer – New Grad,Phone Screen #2,577af2d8-8b57-4cdc-985d-31ff2341cb3f,9454d685-92d1-4c1d-929f-69f2adb65796,4 - Strong Hire,2018-10-18 18:51:56.957
+Software Engineer – New Grad,Phone Screen #2,577af2d8-8b57-4cdc-985d-31ff2341cb3f,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-10-18 18:45:58.579
+Software Engineer – New Grad,Phone Screen #1,577af2d8-8b57-4cdc-985d-31ff2341cb3f,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-09-25 18:19:19.020
+Software Engineer – New Grad,Phone Screen #1,577af2d8-8b57-4cdc-985d-31ff2341cb3f,13a65a65-a780-46c8-a9f3-b8b064bb6132,4 - Strong Hire,2018-09-25 17:07:50.530
+Software Engineer – New Grad,Recruiter Phone Screen,577af2d8-8b57-4cdc-985d-31ff2341cb3f,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-08 00:24:07.733
+Software Engineer – New Grad,Onsite Coding Question #2,dd52ad5c-7282-4785-896e-4dd5031d0521,522b9494-0bc1-4f68-8123-f63a9af90a26,2 - No Hire,2018-10-09 14:03:31.945
+Software Engineer – New Grad,Onsite Coding Question #1,dd52ad5c-7282-4785-896e-4dd5031d0521,ad76ac92-cc68-40fa-8c74-509305f4a028,2 - No Hire,2018-10-09 04:04:57.843
+Software Engineer – New Grad,Onsite Coding Question #2,dd52ad5c-7282-4785-896e-4dd5031d0521,c72f0175-3100-4410-a786-2760341aa0e5,2 - No Hire,2018-10-09 03:59:47.129
+Software Engineer – New Grad,Onsite Value Fit Question - D,dd52ad5c-7282-4785-896e-4dd5031d0521,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-10-08 19:27:03.552
+Software Engineer – New Grad,Phone Screen #2,dd52ad5c-7282-4785-896e-4dd5031d0521,13a65a65-a780-46c8-a9f3-b8b064bb6132,4 - Strong Hire,2018-09-20 20:03:05.366
+Software Engineer – New Grad,Phone Screen #1,dd52ad5c-7282-4785-896e-4dd5031d0521,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-11 18:39:03.574
+Software Engineer – New Grad,Phone Screen #1,dd52ad5c-7282-4785-896e-4dd5031d0521,5a616cfd-b027-4313-972d-ac514544e7b7,3 - Hire,2018-09-11 17:58:45.371
+Software Engineer – New Grad,Onsite Coding Question #2,66804972-56e8-434c-93d5-1fe2f53e314a,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-09-24 17:56:25.363
+Software Engineer – New Grad,Onsite Value Fit Question - B,66804972-56e8-434c-93d5-1fe2f53e314a,1856f66f-938e-4ad2-85a9-0e60d97935e7,2 - No Hire,2018-09-22 01:46:49.814
+Software Engineer – New Grad,Onsite Coding Question #2,66804972-56e8-434c-93d5-1fe2f53e314a,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-09-21 23:05:21.826
+Software Engineer – New Grad,Onsite Value Fit Question - D,66804972-56e8-434c-93d5-1fe2f53e314a,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-09-21 20:04:41.924
+Software Engineer – New Grad,Onsite Coding Question #1,66804972-56e8-434c-93d5-1fe2f53e314a,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-09-21 16:35:53.567
+Software Engineer – New Grad,Onsite Coding Question #1,66804972-56e8-434c-93d5-1fe2f53e314a,13a65a65-a780-46c8-a9f3-b8b064bb6132,3 - Hire,2018-09-21 16:33:56.670
+Software Engineer – New Grad,Phone Screen #2,66804972-56e8-434c-93d5-1fe2f53e314a,52209d66-bf7f-4cca-9c6b-2c633948bf35,2 - No Hire,2018-09-13 14:45:14.227
+Software Engineer – New Grad,Phone Screen #1,66804972-56e8-434c-93d5-1fe2f53e314a,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-08-30 18:06:04.625
+Software Engineer – New Grad,Recruiter Phone Screen,66804972-56e8-434c-93d5-1fe2f53e314a,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-27 19:26:59.718
+Software Engineer – Intern,Onsite Coding Question #1,8c701264-aaf4-4d0f-be77-7ae51b6e9162,f54ba51c-6c6d-4224-b75b-673525de74c8,3 - Hire,2019-02-22 23:10:41.045
+Software Engineer – Intern,Onsite Value Fit Question - A,8c701264-aaf4-4d0f-be77-7ae51b6e9162,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2019-02-22 19:50:19.706
+Software Engineer – Intern,Onsite Value Fit Question - D,8c701264-aaf4-4d0f-be77-7ae51b6e9162,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2019-02-22 19:46:25.052
+Software Engineer – Intern,Onsite Coding Question #1,8c701264-aaf4-4d0f-be77-7ae51b6e9162,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2019-02-22 19:29:42.458
+Software Engineer – Intern,Phone Screen #2,8c701264-aaf4-4d0f-be77-7ae51b6e9162,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2019-02-18 23:19:18.698
+Software Engineer – Intern,Phone Screen #1,8c701264-aaf4-4d0f-be77-7ae51b6e9162,baa19db3-93f2-4615-a199-5365079a1292,3 - Hire,2019-02-11 22:32:54.388
+Software Engineer – Intern,Phone Screen #1,8c701264-aaf4-4d0f-be77-7ae51b6e9162,cd598598-e2bb-4e0e-93a3-169bae2dd824,3 - Hire,2019-02-11 21:05:26.214
+Software Engineer – Intern,Onsite Coding Question #1,5da17308-5651-43ba-955c-5a50c6ab917b,ad76ac92-cc68-40fa-8c74-509305f4a028,2 - No Hire,2018-11-06 23:01:18.377
+Software Engineer – Intern,Onsite Value Fit Question - B,5da17308-5651-43ba-955c-5a50c6ab917b,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-11-06 20:18:22.612
+Software Engineer – Intern,Onsite Value Fit Question - A,5da17308-5651-43ba-955c-5a50c6ab917b,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-11-06 19:13:10.051
+Software Engineer – Intern,Onsite Coding Question #2,5da17308-5651-43ba-955c-5a50c6ab917b,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-11-06 19:04:08.276
+Software Engineer – Intern,Onsite Coding Question #1,5da17308-5651-43ba-955c-5a50c6ab917b,af2dc6f4-3ac9-45db-b6e6-eaf774240268,3 - Hire,2018-11-06 18:35:03.925
+Software Engineer – Intern,Phone Screen #2,5da17308-5651-43ba-955c-5a50c6ab917b,5a616cfd-b027-4313-972d-ac514544e7b7,4 - Strong Hire,2018-10-24 20:47:15.863
+Software Engineer – Intern,Phone Screen #1,5da17308-5651-43ba-955c-5a50c6ab917b,54449cec-90c9-4ca8-ab07-658ad17f53b9,4 - Strong Hire,2018-10-17 21:05:56.338
+Software Engineer – Intern,Recruiter Phone Screen,5da17308-5651-43ba-955c-5a50c6ab917b,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-10-04 22:05:25.312
+Software Engineer – New Grad,Onsite Coding Question #1,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-10-17 23:14:41.901
+Software Engineer – New Grad,Onsite Coding Question #2,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-10-17 21:35:10.071
+Software Engineer – New Grad,Onsite Value Fit Question - C,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,4 - Strong Hire,2018-10-17 20:07:01.468
+Software Engineer – New Grad,Onsite Coding Question #1,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-10-17 18:06:45.478
+Software Engineer – New Grad,Onsite Value Fit Question - B,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-17 17:37:47.442
+Software Engineer – New Grad,Phone Screen #2,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-13 17:16:05.823
+Software Engineer – New Grad,Phone Screen #2,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-08-31 00:10:01.039
+Software Engineer – New Grad,Recruiter Phone Screen,c3b063d8-bf06-4aca-97d9-2ecc7ee690f2,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-27 23:32:31.102
+Software Engineer – Intern,Onsite Coding Question #2,c16eba9a-15df-4a60-b55f-61e2f4ee8985,df5de17b-fd9f-45ac-8db2-7bd61d06feec,2 - No Hire,2018-10-25 22:16:45.138
+Software Engineer – Intern,Onsite Coding Question #2,c16eba9a-15df-4a60-b55f-61e2f4ee8985,0e5bd2a1-323e-415f-b336-cde838ccadcb,2 - No Hire,2018-10-25 21:53:54.535
+Software Engineer – Intern,Onsite Value Fit Question - A,c16eba9a-15df-4a60-b55f-61e2f4ee8985,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-10-25 20:24:34.479
+Software Engineer – Intern,Onsite Coding Question #1,c16eba9a-15df-4a60-b55f-61e2f4ee8985,2c3b16db-568d-485b-af19-869ec3864d3d,4 - Strong Hire,2018-10-25 18:27:26.384
+Software Engineer – Intern,Onsite Coding Question #1,c16eba9a-15df-4a60-b55f-61e2f4ee8985,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-10-25 18:05:36.329
+Software Engineer – Intern,Phone Screen #2,c16eba9a-15df-4a60-b55f-61e2f4ee8985,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-10-03 17:21:56.364
+Software Engineer – Intern,Phone Screen #2,c16eba9a-15df-4a60-b55f-61e2f4ee8985,522b9494-0bc1-4f68-8123-f63a9af90a26,3 - Hire,2018-10-01 18:26:09.831
+Software Engineer – Intern,Phone Screen #1,c16eba9a-15df-4a60-b55f-61e2f4ee8985,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2018-09-18 19:57:46.526
+Software Engineer – Intern,Phone Screen #1,c16eba9a-15df-4a60-b55f-61e2f4ee8985,54449cec-90c9-4ca8-ab07-658ad17f53b9,4 - Strong Hire,2018-09-18 18:10:37.420
+Software Engineer – New Grad,Onsite Coding Question #2,157c198c-20e7-44ca-ace4-2512c565f84f,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-10-01 16:03:03.186
+Software Engineer – New Grad,Onsite Coding Question #1,157c198c-20e7-44ca-ace4-2512c565f84f,03285cd5-11d8-40cc-b58d-d0def7b4fa94,4 - Strong Hire,2018-09-29 23:51:59.748
+Software Engineer – New Grad,Onsite Value Fit Question - B,157c198c-20e7-44ca-ace4-2512c565f84f,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-09-28 20:41:06.318
+Software Engineer – New Grad,Onsite Coding Question #1,157c198c-20e7-44ca-ace4-2512c565f84f,955a4c54-e7a9-45c1-8e06-6de24a6ed5bc,3 - Hire,2018-09-28 20:40:45.280
+Software Engineer – New Grad,Onsite Coding Question #2,157c198c-20e7-44ca-ace4-2512c565f84f,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-09-28 20:06:23.760
+Software Engineer – New Grad,Phone Screen #2,157c198c-20e7-44ca-ace4-2512c565f84f,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-09-13 19:06:24.490
+Software Engineer – New Grad,Phone Screen #1,157c198c-20e7-44ca-ace4-2512c565f84f,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-09-10 19:25:09.683
+Software Engineer – Intern,Onsite Coding Question #2,6cc8cc00-4cad-410c-abfd-27c2e1e464db,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2018-10-08 21:07:56.594
+Software Engineer – Intern,Onsite Value Fit Question - C,6cc8cc00-4cad-410c-abfd-27c2e1e464db,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,2 - No Hire,2018-10-08 21:06:57.521
+Software Engineer – Intern,Onsite Coding Question #1,6cc8cc00-4cad-410c-abfd-27c2e1e464db,e0f3e92c-39e2-4839-af33-b37cd10a84bc,4 - Strong Hire,2018-10-08 19:07:51.763
+Software Engineer – Intern,Phone Screen #2,6cc8cc00-4cad-410c-abfd-27c2e1e464db,5a616cfd-b027-4313-972d-ac514544e7b7,4 - Strong Hire,2018-09-11 17:44:26.463
+Software Engineer – Intern,Phone Screen #1,6cc8cc00-4cad-410c-abfd-27c2e1e464db,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-04 22:30:44.373
+Software Engineer – Intern,Recruiter Phone Screen,6cc8cc00-4cad-410c-abfd-27c2e1e464db,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-03 22:06:34.879
+Software Engineer – New Grad,Onsite Coding Question #2,b88583a4-94f5-489c-b422-8d2c0d853e6a,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-10-03 22:36:04.563
+Software Engineer – New Grad,Onsite Value Fit Question - B,b88583a4-94f5-489c-b422-8d2c0d853e6a,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-03 20:23:54.629
+Software Engineer – New Grad,Onsite Value Fit Question - D,b88583a4-94f5-489c-b422-8d2c0d853e6a,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-10-03 20:12:11.224
+Software Engineer – New Grad,Onsite Coding Question #1,b88583a4-94f5-489c-b422-8d2c0d853e6a,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-10-03 17:43:57.805
+Software Engineer – New Grad,Onsite Coding Question #2,b88583a4-94f5-489c-b422-8d2c0d853e6a,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-10-03 17:43:37.561
+Software Engineer – New Grad,Phone Screen #1,b88583a4-94f5-489c-b422-8d2c0d853e6a,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-20 21:18:08.490
+Software Engineer – New Grad,Onsite Coding Question #1,9433daf4-3508-4d7f-982d-e4825c5dee23,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-10-08 21:37:29.504
+Software Engineer – New Grad,Onsite Coding Question #1,9433daf4-3508-4d7f-982d-e4825c5dee23,03285cd5-11d8-40cc-b58d-d0def7b4fa94,3 - Hire,2018-10-08 15:19:49.690
+Software Engineer – New Grad,Onsite Value Fit Question - D,9433daf4-3508-4d7f-982d-e4825c5dee23,1dedfff4-60c6-4262-93d2-693db5ad64dd,4 - Strong Hire,2018-10-05 20:09:33.150
+Software Engineer – New Grad,Onsite Value Fit Question - B,9433daf4-3508-4d7f-982d-e4825c5dee23,1856f66f-938e-4ad2-85a9-0e60d97935e7,4 - Strong Hire,2018-10-05 18:39:10.059
+Software Engineer – New Grad,Onsite Coding Question #2,9433daf4-3508-4d7f-982d-e4825c5dee23,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-10-05 16:25:25.246
+Software Engineer – New Grad,Phone Screen #2,9433daf4-3508-4d7f-982d-e4825c5dee23,2c3b16db-568d-485b-af19-869ec3864d3d,4 - Strong Hire,2018-09-27 18:03:32.528
+Software Engineer – New Grad,Phone Screen #1,9433daf4-3508-4d7f-982d-e4825c5dee23,522b9494-0bc1-4f68-8123-f63a9af90a26,4 - Strong Hire,2018-09-18 20:59:14.372
+Software Engineer – New Grad,Phone Screen #1,9433daf4-3508-4d7f-982d-e4825c5dee23,cfa46f0f-55fb-4ef0-846b-4be64b68e594,4 - Strong Hire,2018-09-17 22:59:16.853
+Software Engineer – New Grad,Recruiter Phone Screen,9433daf4-3508-4d7f-982d-e4825c5dee23,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-11 21:29:59.038
+Software Engineer – New Grad,Onsite Coding Question #1,54dd88bc-fed1-47bb-a887-ef21aee01617,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-09-25 23:36:44.752
+Software Engineer – New Grad,Onsite Coding Question #2,54dd88bc-fed1-47bb-a887-ef21aee01617,522b9494-0bc1-4f68-8123-f63a9af90a26,4 - Strong Hire,2018-09-25 23:08:27.394
+Software Engineer – New Grad,Onsite Coding Question #2,54dd88bc-fed1-47bb-a887-ef21aee01617,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-09-25 22:14:41.743
+Software Engineer – New Grad,Onsite Value Fit Question - B,54dd88bc-fed1-47bb-a887-ef21aee01617,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-09-25 21:12:03.439
+Software Engineer – New Grad,Onsite Value Fit Question - D,54dd88bc-fed1-47bb-a887-ef21aee01617,1dedfff4-60c6-4262-93d2-693db5ad64dd,3 - Hire,2018-09-25 17:03:31.277
+Software Engineer – New Grad,Phone Screen #2,54dd88bc-fed1-47bb-a887-ef21aee01617,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-09-19 23:07:12.368
+Software Engineer – New Grad,Phone Screen #1,54dd88bc-fed1-47bb-a887-ef21aee01617,9454d685-92d1-4c1d-929f-69f2adb65796,4 - Strong Hire,2018-09-04 22:36:42.886
+Software Engineer – New Grad,Phone Screen #1,54dd88bc-fed1-47bb-a887-ef21aee01617,54449cec-90c9-4ca8-ab07-658ad17f53b9,4 - Strong Hire,2018-09-02 18:16:58.654
+Software Engineer – New Grad,Onsite Coding Question #2,af2beef8-a926-43fb-b691-7ca91dc15c9c,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-10-15 21:43:15.119
+Software Engineer – New Grad,Onsite Value Fit Question - C,af2beef8-a926-43fb-b691-7ca91dc15c9c,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-10-15 20:35:17.984
+Software Engineer – New Grad,Onsite Coding Question #1,af2beef8-a926-43fb-b691-7ca91dc15c9c,cfa46f0f-55fb-4ef0-846b-4be64b68e594,4 - Strong Hire,2018-10-15 18:58:36.240
+Software Engineer – New Grad,Onsite Value Fit Question - B,af2beef8-a926-43fb-b691-7ca91dc15c9c,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-15 18:36:47.045
+Software Engineer – New Grad,Phone Screen #2,af2beef8-a926-43fb-b691-7ca91dc15c9c,ad76ac92-cc68-40fa-8c74-509305f4a028,3 - Hire,2018-09-27 16:44:52.770
+Software Engineer – New Grad,Phone Screen #2,af2beef8-a926-43fb-b691-7ca91dc15c9c,af2dc6f4-3ac9-45db-b6e6-eaf774240268,4 - Strong Hire,2018-09-12 18:55:47.966
+Software Engineer – New Grad,Phone Screen #1,af2beef8-a926-43fb-b691-7ca91dc15c9c,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-09-10 22:45:52.021
+Software Engineer – New Grad,Onsite Value Fit Question - B,6b72072d-86ff-4865-bdd4-f47d1b32023d,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-23 02:45:58.264
+Software Engineer – New Grad,Onsite Coding Question #1,6b72072d-86ff-4865-bdd4-f47d1b32023d,ff633951-6cee-4923-8ba0-87431471b328,4 - Strong Hire,2018-10-23 01:49:41.620
+Software Engineer – New Grad,Onsite Coding Question #2,6b72072d-86ff-4865-bdd4-f47d1b32023d,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-10-22 20:48:50.150
+Software Engineer – New Grad,Onsite Value Fit Question - D,6b72072d-86ff-4865-bdd4-f47d1b32023d,1dedfff4-60c6-4262-93d2-693db5ad64dd,4 - Strong Hire,2018-10-22 19:01:36.886
+Software Engineer – New Grad,Phone Screen #2,6b72072d-86ff-4865-bdd4-f47d1b32023d,2c3b16db-568d-485b-af19-869ec3864d3d,3 - Hire,2018-10-01 22:23:27.950
+Software Engineer – New Grad,Phone Screen #2,6b72072d-86ff-4865-bdd4-f47d1b32023d,214a9342-7395-455d-a4c0-66ae5741f5e9,3 - Hire,2018-10-01 21:08:48.354
+Software Engineer – New Grad,Phone Screen #1,6b72072d-86ff-4865-bdd4-f47d1b32023d,5983bf10-f2c8-4aad-b615-6c4c30201072,4 - Strong Hire,2018-09-22 14:15:15.492
+Software Engineer – New Grad,Recruiter Phone Screen,6b72072d-86ff-4865-bdd4-f47d1b32023d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-09-12 17:51:37.190
+Software Engineer – New Grad,Onsite Value Fit Question - C,6025fa68-93f1-435f-8007-89680669191f,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2018-11-05 23:02:56.421
+Software Engineer – New Grad,Onsite Value Fit Question - B,6025fa68-93f1-435f-8007-89680669191f,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-11-05 22:33:16.932
+Software Engineer – New Grad,Onsite Coding Question #1,6025fa68-93f1-435f-8007-89680669191f,2c3b16db-568d-485b-af19-869ec3864d3d,4 - Strong Hire,2018-11-05 22:31:49.678
+Software Engineer – New Grad,Onsite Coding Question #2,6025fa68-93f1-435f-8007-89680669191f,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-11-05 22:25:36.610
+Software Engineer – New Grad,Onsite Coding Question #1,6025fa68-93f1-435f-8007-89680669191f,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-11-05 21:09:46.173
+Software Engineer – New Grad,Onsite Coding Question #2,6025fa68-93f1-435f-8007-89680669191f,522b9494-0bc1-4f68-8123-f63a9af90a26,3 - Hire,2018-11-05 20:26:11.944
+Software Engineer – New Grad,Phone Screen #2,6025fa68-93f1-435f-8007-89680669191f,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2018-10-23 17:59:31.394
+Software Engineer – New Grad,Phone Screen #1,6025fa68-93f1-435f-8007-89680669191f,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-17 16:39:05.905
+Software Engineer – New Grad,Phone Screen #1,6025fa68-93f1-435f-8007-89680669191f,fea3236e-92eb-4bb9-87a5-81af670fd86a,3 - Hire,2018-10-16 21:32:36.899
+Software Engineer – Intern,Onsite Coding Question #2,a99c3caa-9605-43cd-a7e3-7b76804b68d6,522b9494-0bc1-4f68-8123-f63a9af90a26,4 - Strong Hire,2018-09-24 19:00:44.557
+Software Engineer – Intern,Onsite Value Fit Question - B,a99c3caa-9605-43cd-a7e3-7b76804b68d6,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-09-22 01:26:23.448
+Software Engineer – Intern,Onsite Coding Question #2,a99c3caa-9605-43cd-a7e3-7b76804b68d6,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-09-22 00:44:59.072
+Software Engineer – Intern,Onsite Coding Question #1,a99c3caa-9605-43cd-a7e3-7b76804b68d6,e0f3e92c-39e2-4839-af33-b37cd10a84bc,3 - Hire,2018-09-21 22:50:24.934
+Software Engineer – Intern,Onsite Value Fit Question - A,a99c3caa-9605-43cd-a7e3-7b76804b68d6,5983bf10-f2c8-4aad-b615-6c4c30201072,4 - Strong Hire,2018-09-21 22:36:46.870
+Software Engineer – Intern,Onsite Coding Question #1,a99c3caa-9605-43cd-a7e3-7b76804b68d6,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-09-21 22:11:41.784
+Software Engineer – Intern,Phone Screen #2,a99c3caa-9605-43cd-a7e3-7b76804b68d6,df5de17b-fd9f-45ac-8db2-7bd61d06feec,3 - Hire,2018-09-14 23:09:20.297
+Software Engineer – Intern,Phone Screen #1,a99c3caa-9605-43cd-a7e3-7b76804b68d6,5a616cfd-b027-4313-972d-ac514544e7b7,4 - Strong Hire,2018-09-11 17:50:19.398
+Software Engineer – Intern,Onsite Coding Question #1,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,cfa46f0f-55fb-4ef0-846b-4be64b68e594,4 - Strong Hire,2019-01-17 22:28:38.240
+Software Engineer – Intern,Onsite Value Fit Question - A,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2019-01-17 21:45:19.714
+Software Engineer – Intern,Onsite Value Fit Question - C,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,3 - Hire,2019-01-17 18:43:49.549
+Software Engineer – Intern,Onsite Coding Question #2,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,0e5bd2a1-323e-415f-b336-cde838ccadcb,3 - Hire,2019-01-17 18:15:38.730
+Software Engineer – Intern,Onsite Coding Question #1,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,214a9342-7395-455d-a4c0-66ae5741f5e9,4 - Strong Hire,2019-01-17 18:11:28.439
+Software Engineer – Intern,Phone Screen #2,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,2a1eafce-83dc-42d4-b423-096120f12dfb,3 - Hire,2018-12-21 22:06:15.789
+Software Engineer – Intern,Phone Screen #1,caf326a4-b6ed-4dcb-a08a-e6daefe829f1,52209d66-bf7f-4cca-9c6b-2c633948bf35,4 - Strong Hire,2018-12-12 19:58:02.885
+Software Engineer – Intern,Onsite Coding Question #2,5489d0a0-605c-4917-9985-96a9ffe5061d,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-10-15 22:14:18.006
+Software Engineer – Intern,Onsite Coding Question #2,5489d0a0-605c-4917-9985-96a9ffe5061d,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-10-15 22:06:12.388
+Software Engineer – Intern,Onsite Value Fit Question - B,5489d0a0-605c-4917-9985-96a9ffe5061d,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-15 20:08:44.263
+Software Engineer – Intern,Onsite Value Fit Question - A,5489d0a0-605c-4917-9985-96a9ffe5061d,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-10-15 19:24:53.153
+Software Engineer – Intern,Onsite Coding Question #1,5489d0a0-605c-4917-9985-96a9ffe5061d,52209d66-bf7f-4cca-9c6b-2c633948bf35,3 - Hire,2018-10-15 19:17:07.636
+Software Engineer – Intern,Phone Screen #1,5489d0a0-605c-4917-9985-96a9ffe5061d,2a1eafce-83dc-42d4-b423-096120f12dfb,4 - Strong Hire,2018-09-11 21:04:41.038
+Software Engineer – Intern,Phone Screen #1,5489d0a0-605c-4917-9985-96a9ffe5061d,5a616cfd-b027-4313-972d-ac514544e7b7,4 - Strong Hire,2018-08-31 19:39:26.275
+Software Engineer – Intern,Recruiter Phone Screen,5489d0a0-605c-4917-9985-96a9ffe5061d,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-08-23 22:35:37.818
+Software Engineer – Intern,Onsite Value Fit Question - B,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-11-20 01:29:50.657
+Software Engineer – Intern,Onsite Coding Question #2,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,522b9494-0bc1-4f68-8123-f63a9af90a26,4 - Strong Hire,2018-11-19 23:25:03.431
+Software Engineer – Intern,Onsite Coding Question #1,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2018-11-19 22:14:50.279
+Software Engineer – Intern,Onsite Coding Question #1,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,4a1937ff-da77-42a0-af48-bc20834a6288,4 - Strong Hire,2018-11-19 19:13:14.139
+Software Engineer – Intern,Onsite Value Fit Question - A,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-11-18 04:46:04.886
+Software Engineer – Intern,Phone Screen #2,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,ad76ac92-cc68-40fa-8c74-509305f4a028,4 - Strong Hire,2018-10-30 17:16:02.508
+Software Engineer – Intern,Phone Screen #1,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,7395d84f-07dd-4862-8b74-887a2a66a1d0,4 - Strong Hire,2018-10-23 17:41:06.165
+Software Engineer – Intern,Phone Screen #1,83cfa7d6-4584-41ee-8c8a-177b7a8b357a,13a65a65-a780-46c8-a9f3-b8b064bb6132,4 - Strong Hire,2018-10-23 16:37:00.178
+Software Engineer – Intern,Onsite Value Fit Question - B,15c6869b-953d-49fa-85ff-f4676edbe8e3,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-11-14 17:11:32.341
+Software Engineer – Intern,Onsite Coding Question #1,15c6869b-953d-49fa-85ff-f4676edbe8e3,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2018-11-14 07:57:45.598
+Software Engineer – Intern,Onsite Coding Question #2,15c6869b-953d-49fa-85ff-f4676edbe8e3,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-11-14 00:07:24.674
+Software Engineer – Intern,Onsite Value Fit Question - A,15c6869b-953d-49fa-85ff-f4676edbe8e3,5983bf10-f2c8-4aad-b615-6c4c30201072,2 - No Hire,2018-11-13 20:55:52.224
+Software Engineer – Intern,Phone Screen #2,15c6869b-953d-49fa-85ff-f4676edbe8e3,fff01408-4976-447f-aeea-c3f9a8b6081c,4 - Strong Hire,2018-11-02 18:02:27.916
+Software Engineer – Intern,Phone Screen #1,15c6869b-953d-49fa-85ff-f4676edbe8e3,2c3b16db-568d-485b-af19-869ec3864d3d,4 - Strong Hire,2018-10-30 23:35:51.014
+Software Engineer – Intern,Recruiter Phone Screen,15c6869b-953d-49fa-85ff-f4676edbe8e3,b647ea2e-94f8-4789-b301-f9deb7643fae,4 - Strong Hire,2018-10-25 16:59:41.759
+Software Engineer – New Grad,Onsite Coding Question #2,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,c72f0175-3100-4410-a786-2760341aa0e5,4 - Strong Hire,2018-10-19 09:29:02.009
+Software Engineer – New Grad,Onsite Coding Question #2,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,0e5bd2a1-323e-415f-b336-cde838ccadcb,4 - Strong Hire,2018-10-19 01:26:50.073
+Software Engineer – New Grad,Onsite Coding Question #1,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,cfa46f0f-55fb-4ef0-846b-4be64b68e594,2 - No Hire,2018-10-18 23:26:05.583
+Software Engineer – New Grad,Onsite Value Fit Question - B,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,1856f66f-938e-4ad2-85a9-0e60d97935e7,3 - Hire,2018-10-18 22:06:55.155
+Software Engineer – New Grad,Onsite Coding Question #1,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,1dedfff4-60c6-4262-93d2-693db5ad64dd,2 - No Hire,2018-10-18 21:50:16.945
+Software Engineer – New Grad,Onsite Value Fit Question - C,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,e2163b5a-b9bc-49f4-92c2-afec04f5ae09,4 - Strong Hire,2018-10-18 17:56:46.645
+Software Engineer – New Grad,Phone Screen #2,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,bb231d23-2581-4f82-8508-773cbb6da11b,3 - Hire,2018-10-03 22:51:14.860
+Software Engineer – New Grad,Phone Screen #2,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,4a1937ff-da77-42a0-af48-bc20834a6288,3 - Hire,2018-10-03 21:09:40.210
+Software Engineer – New Grad,Recruiter Phone Screen,420a25f1-e9c7-4c3b-944d-0a8c58d91ac2,b647ea2e-94f8-4789-b301-f9deb7643fae,3 - Hire,2018-07-31 21:05:40.542
+Software Engineer – Intern,Onsite Coding Question #2,b723fdbc-e5af-4c3d-a001-b883ad4b4714,522b9494-0bc1-4f68-8123-f63a9af90a26,4 - Strong Hire,2018-10-23 21:49:39.139
+Software Engineer – Intern,Onsite Value Fit Question - A,b723fdbc-e5af-4c3d-a001-b883ad4b4714,5983bf10-f2c8-4aad-b615-6c4c30201072,3 - Hire,2018-10-23 21:17:16.925
+Software Engineer – Intern,Onsite Coding Question #1,b723fdbc-e5af-4c3d-a001-b883ad4b4714,e0f3e92c-39e2-4839-af33-b37cd10a84bc,2 - No Hire,2018-10-23 19:07:09.232
+Software Engineer – Intern,Phone Screen #2,b723fdbc-e5af-4c3d-a001-b883ad4b4714,ad76ac92-cc68-40fa-8c74-509305f4a028,4 - Strong Hire,2018-10-01 14:20:41.569
+Software Engineer – Intern,Phone Screen #2,b723fdbc-e5af-4c3d-a001-b883ad4b4714,fea3236e-92eb-4bb9-87a5-81af670fd86a,4 - Strong Hire,2018-09-28 19:05:37.753
+Software Engineer – Intern,Phone Screen #1,b723fdbc-e5af-4c3d-a001-b883ad4b4714,df5de17b-fd9f-45ac-8db2-7bd61d06feec,4 - Strong Hire,2018-09-22 16:08:27.164
