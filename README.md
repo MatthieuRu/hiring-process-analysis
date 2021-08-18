@@ -22,7 +22,7 @@ Note that some interviews have multiple engineers conducting them, so you might 
 
 The aim is to answer to the question:
 
-**how we can improve university recruiting for future seasons?**
+**How we can improve university recruiting for future seasons?**
 
 
 1. KPI Creation - How should we evaluate whether this University Recruiting season went well?  
