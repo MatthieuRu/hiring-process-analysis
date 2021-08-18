@@ -4,7 +4,7 @@ The typical recruiting pipeline looks something like this:
 1. Recruiter Phone Screen (optional)
 2. Phone Screen #1
 3. Phone Screen #2
-4. Onsite 
+4. Onsite
 5. Offer
 6. Offer Accept
 
@@ -18,7 +18,6 @@ The Onsite round contains 4 interview questions:
 * 2 Onsite Value Fit Question *(the A/B/C/D prefix are used to denote different Value Fit Questions asked by different interviewers)*
 
 
-
 Note that some interviews have multiple engineers conducting them, so you might see 2 “Phone Screen #1”s for the same candidate. 
 
 The aim is to answer to the question:
@@ -27,8 +26,8 @@ The aim is to answer to the question:
 
 
 1. KPI Creation - How should we evaluate whether this University Recruiting season went well?  
-2. Advice A - What can we do to improve University Recruiting in the future? 
-3. Advice B - What can we do to improve our interviewing process? 
+2. Advice A - What can we do to improve University Recruiting in the future?
+3. Advice B - What can we do to improve our interviewing process?
 
 
 ##### The client of this analysis is the **Head of Engineering** to help them understand how well the university recruiting season has been going, and what we can do better for future seasons. 
@@ -49,6 +48,7 @@ The aim is to answer to the question:
 - ```./start.sh``` *Launch the docker images including the postgre server*
 - ```conda env create``` *Create the conda environment based on the environment.yml.*
 - ```conda activate hiring-process``` *Activate the conda environment.*
+- ```jupyter notebook README.ipynb``` *Create the schema and migrate the data from csv to the postgre database*
 - ```python app.py``` *Run the app on your local machine*
 
 
@@ -68,18 +68,15 @@ server = Server(
 ) 
 ```
 
-
-```python
-# Create the schema
-server._create_schema('src/hiring_process_analysis/db_manager/hiring_process.sql')
-```
-
-
 ```python
 # Delete the schema (if needed)
 server._delete_schema()
 ```
 
+```python
+# Create the schema
+server._create_schema('src/hiring_process_analysis/db_manager/hiring_process.sql')
+```
 
 ```python
 from src.hiring_process_analysis.db_manager.migration import Migration
@@ -97,10 +94,13 @@ migration = Migration(
 migration.send_to_databases(server=server)
 ```
 
+Now you can run the app:
+
+- ```python app.py``` *Run the app on your local machine*
+
 ### 2 - Get the differents KPI tables from the database
 
-All the SQL query has been added to a function file. Each function is a query returning a pandas dataframe.
-
+All the SQL query has been added to a function file. Each function is a query returning a pandas dataframe. (All the table needed for the analysis and the **app**.
 
 ```python
 from src.hiring_process_analysis.db_manager.get_kpi import get_kpi_conversion_overall
@@ -121,8 +121,7 @@ tag_candidate_overview = get_tag_candidate_overview(server)
 
 ### 3 - Get the differents Graph and Indicators from the KPI tables
 
-A Class has been created containing all the graph and indicators needed for the analysis and the app.
-
+A Class has been created containing all the graph and indicators needed for the analysis and the **app**.
 
 ```python
 from src.hiring_process_analysis.app.vizualisation import Vizualisation
