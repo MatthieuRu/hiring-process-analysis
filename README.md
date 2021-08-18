@@ -98,6 +98,9 @@ Now you can run the app:
 
 - ```python app.py``` *Run the app on your local machine*
 
+
+<img src='app.png' width="500" height="200">
+
 ### 2 - Get the differents KPI tables from the database
 
 All the SQL query has been added to a function file. Each function is a query returning a pandas dataframe. (All the table needed for the analysis and the **app**.

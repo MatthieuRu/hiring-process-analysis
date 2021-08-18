@@ -154,32 +154,6 @@ app.layout = html.Div([
     ])
 ])
 
-# html.Div([
-#     dbc.Row(
-#         dbc.Col(html.Div([
-#             dcc.Graph(id='bullet_chart',
-#                       figure=ff.create_bullet(
-#                           bullet_data,
-#                           ranges='ranges',
-#                           measures='measures',
-#                           title=None,
-#                           autosize=True,
-#                       )
-#                       ),
-#             ]), width={'size':3}  # this column is 3 units of the page width
-#         ),
-
-#         dbc.Col(html.Div([
-#             ]), width={'size':3}  # this column is 3 units of the page width
-#         ),
-#     ),
-# ]),
-# ])
-
-
-# app.css.append_css({
-# 'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css 377'
-# })
 
 # ------------------------------------------------------------------------------
 if __name__ == '__main__':
