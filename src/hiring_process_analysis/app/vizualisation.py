@@ -137,7 +137,7 @@ class Vizualisation:
         fig.add_trace(go.Indicator(
             value = indicator,
             domain = {'row': 0, 'column': 1},
-            title = "Offer acceptation rate for New Grad Position (%)"
+            title = "Offers accepted conversion for New Grad (%)"
         ))
         fig.update_layout(plot_bgcolor = self.app_color["graph_bg"])
         fig.update_layout(paper_bgcolor = self.app_color["graph_bg"])
@@ -157,7 +157,7 @@ class Vizualisation:
         fig.add_trace(go.Indicator(
             value = indicator,
             domain = {'row': 0, 'column': 1},
-            title = "Offer acceptation rate for Intern Position (%)"
+            title = "Offers accepted conversion for Intern (%)"
         ))
         fig.update_layout(plot_bgcolor = self.app_color["graph_bg"])
         fig.update_layout(paper_bgcolor = self.app_color["graph_bg"])
@@ -219,7 +219,7 @@ class Vizualisation:
                 'Candidate Rejected the offer',
                 'Candidate Accepted the offer'
             ],
-            title="Acceptance Ratio per Tag",
+            title="Offers accepted conversion per Tag",
             labels={
                 "variable": "Legend",
                 "tag": "",
